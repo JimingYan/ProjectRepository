@@ -1,4 +1,5 @@
-import math
+## This code takes the captured VescStateStamped message from /sensors/core as a .txt file and offer options to graph them either in one or two plots
+
 import tkinter 
 from tkinter import *
 from tkinter.filedialog import askopenfilename
@@ -63,8 +64,12 @@ for i in file:
     if(i_sep[0]=="  current_q"):
         currentq.append(float(i_sep[1]))
 
-end=sec[len(sec)-1]+nsec[len(nsec)-1]/10**9
-start=sec[0]+nsec[0]/10**9
+
+for i in range(len(speed)):
+    sec[i] = sec[i]+nsec[i]/(10**9)
+
+start = sec[0]
+end = sec[len(sec)-1]
 xscale=600/(end-start)
 
 paramlist = [param(speed,"speed","(ERPM)"), param(current, "motor current", "(A)"), param(dc, "duty cycle","(%)"), param(inputc, "input current", "(A)"), param(currentq , "q-axis current", "(A)")]
@@ -77,6 +82,7 @@ def plot_one():
     global end
     global start
     global plotflag
+    global sec
     
     canvas.delete("all")
     if (plotflag == 0):
@@ -98,7 +104,7 @@ def plot_one():
         counter = 0
         for j in selectedList:
             for i in range(len(j.List)-1):
-                canvas.create_line(i*1000/(len(j.List)-1)+50, 50+(j.ListMax-j.List[i])*600/(j.ListMax-j.ListMin),(i+1)*1000/(len(j.List)-1)+50, 50+(j.ListMax-j.List[i+1])*600/(j.ListMax-j.ListMin), width=2, fill=color[counter])
+                canvas.create_line((sec[i]-start)/(end-start)*1000+50, 50+(j.ListMax-j.List[i])*600/(j.ListMax-j.ListMin),(sec[i+1]-start)/(end-start)*1000+50, 50+(j.ListMax-j.List[i+1])*600/(j.ListMax-j.ListMin), width=2, fill=color[counter])
             for i in range(21):
                 canvas.create_text(side[counter],50+30*i, text=str(round((j.ListMax-j.ListMin)/20*(20-i)+j.ListMin,3)))
             canvas.create_line(legendline[counter],25,legendline[counter]+75,25,width=2,fill=color[counter])
@@ -131,14 +137,14 @@ def plot_one():
         for j in selectedList:
             if(counter<2):
                 for i in range(len(j.List)-1):
-                    canvas.create_line(i*1000/(len(j.List)-1)+50, 50+(j.ListMax-j.List[i])*250/(j.ListMax-j.ListMin),(i+1)*1000/(len(j.List)-1)+50, 50+(j.ListMax-j.List[i+1])*250/(j.ListMax-j.ListMin), width=2, fill=color[counter])
+                    canvas.create_line((sec[i]-start)/(end-start)*1000+50, 50+(j.ListMax-j.List[i])*250/(j.ListMax-j.ListMin),(sec[i+1]-start)/(end-start)*1000+50, 50+(j.ListMax-j.List[i+1])*250/(j.ListMax-j.ListMin), width=2, fill=color[counter])
                 for i in range(11):
                     canvas.create_text(side[counter],50+25*i, text=str(round((j.ListMax-j.ListMin)/10*(10-i)+j.ListMin,3)))
                 canvas.create_line(legendline[counter],25,legendline[counter]+75,25,width=2,fill=color[counter])
                 canvas.create_text(textpos[counter],25,anchor="w",text=j.Name+" "+j.Unit)
             if(counter>=2):
                 for i in range(len(j.List)-1):
-                    canvas.create_line(i*1000/(len(j.List)-1)+50, 400+(j.ListMax-j.List[i])*250/(j.ListMax-j.ListMin),(i+1)*1000/(len(j.List)-1)+50, 400+(j.ListMax-j.List[i+1])*250/(j.ListMax-j.ListMin), width=2, fill=color[counter])
+                    canvas.create_line((sec[i]-start)/(end-start)*1000+50, 400+(j.ListMax-j.List[i])*250/(j.ListMax-j.ListMin),(sec[i+1]-start)/(end-start)*1000+50, 400+(j.ListMax-j.List[i+1])*250/(j.ListMax-j.ListMin), width=2, fill=color[counter])
                 for i in range(11):
                     canvas.create_text(side[counter-2],400+25*i, text=str(round((j.ListMax-j.ListMin)/10*(10-i)+j.ListMin,3)))
                 canvas.create_line(legendline[counter-2],375,legendline[counter-2]+75,375,width=2,fill=color[counter])
