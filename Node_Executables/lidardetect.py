@@ -20,7 +20,6 @@ def callback(data):
     Min=min(front)
     if(Min>1.5):
         verd="far"
-#        print front[10]
         pub1.publish(0.125)
         pub3.publish(0.48)
     else:
@@ -34,7 +33,6 @@ def brake():
 def getspeed(data):
    global pub2
    global pub1
-#   rospy.loginfo(data.state.current_motor)
    pub2.publish(70.0)
 
 def lidardetect():
