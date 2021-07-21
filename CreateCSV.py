@@ -18,20 +18,21 @@ for ind in listoffile:
         file=open(ind)
         file=file.readlines()
         for i in file:
-            i_sep=i.split(":")
-            if(i_sep[0] =="  speed"):
+            a = i.strip(" ")
+            i_sep=a.split(":")
+            if(i_sep[0] =="speed"):
                 speed.append(float(i_sep[1]))
-            if(i_sep[0]=="  current_motor"):
+            if(i_sep[0]=="current_motor"):
                 current.append(float(i_sep[1]))
-            if(i_sep[0]=="  duty_cycle"):
+            if(i_sep[0]=="duty_cycle"):
                 dc.append(100*float(i_sep[1]))
-            if(i_sep[0]=="    nsecs"):
+            if(i_sep[0]=="nsecs"):
                 nsec.append(float(i_sep[1]))
-            if(i_sep[0]=="    secs"):
+            if(i_sep[0]=="secs"):
                 sec.append(float(i_sep[1]))
-            if(i_sep[0]=="  current_input"):
+            if(i_sep[0]=="current_input"):
                 inputc.append(float(i_sep[1]))
-            if(i_sep[0]=="  current_q"):
+            if(i_sep[0]=="current_q"):
                 currentq.append(float(i_sep[1]))
                 
         for i in range(len(speed)):

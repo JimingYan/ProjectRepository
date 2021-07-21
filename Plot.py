@@ -14,77 +14,19 @@ class param:
         self.Unit = Unit
 
     def addselftoplotlist(self):
-        global selectedList
         selectedList.append(self)
         selectroot.destroy()
         plot_one()
 
-global selectedList
-global end
-global start
-
-global plotflag
-
-plotflag = 0
-
-Tk().withdraw() 
-filename = askopenfilename()
-
-selectedList=[]
-
 root=tkinter.Tk()
-
 canvas=tkinter.Canvas(root, height=725,width=1100)
-
 canvas.pack()
-
-speed=[]
-current=[]
-nsec=[]
-sec=[]
-dc=[]
-inputc=[]
-currentq=[]
-file=open(filename)
-file=file.readlines()
-for i in file:
-    i_sep=i.split(":")
-    if(i_sep[0] =="  speed"):
-        speed.append(float(i_sep[1]))
-    if(i_sep[0]=="  current_motor"):
-        current.append(float(i_sep[1]))
-    if(i_sep[0]=="  duty_cycle"):
-        dc.append(100*float(i_sep[1]))
-    if(i_sep[0]=="    nsecs"):
-        nsec.append(float(i_sep[1]))
-    if(i_sep[0]=="    secs"):
-        sec.append(float(i_sep[1]))
-    if(i_sep[0]=="  current_input"):
-        inputc.append(float(i_sep[1]))
-    if(i_sep[0]=="  current_q"):
-        currentq.append(float(i_sep[1]))
-
-
-for i in range(len(speed)):
-    sec[i] = sec[i]+nsec[i]/(10**9)
-
-start = sec[0]
-end = sec[len(sec)-1]
-xscale=600/(end-start)
-
-paramlist = [param(speed,"speed","(ERPM)"), param(current, "motor current", "(A)"), param(dc, "duty cycle","(%)"), param(inputc, "input current", "(A)"), param(currentq , "q-axis current", "(A)")]
 
 
 def plot_one():
-    global paramlist
-    global canvas
-    global selectedList
-    global end
-    global start
-    global plotflag
-    global sec
-    
+    global canvas    
     canvas.delete("all")
+    canvas.create_text(550,25,anchor = "n", text = filename.split("/")[len(filename.split("/"))-1])
     if (plotflag == 0):
         if (len(selectedList) == 2):
             pass
@@ -120,7 +62,7 @@ def plot_one():
         if(len(selectedList) >2):
             pass
         else:
-            button = tkinter.Button(canvas, text = "Subplot", command = changeplotflag)
+            button = tkinter.Button(canvas, text = "Single Plot", command = changeplotflag)
             button_window = canvas.create_window(650,695,height=30,width = 100, anchor = "n", window = button)
         for i in range(21):
             canvas.create_line(50+50*i,50,50+50*i,300)
@@ -150,19 +92,19 @@ def plot_one():
                 canvas.create_line(legendline[counter-2],375,legendline[counter-2]+75,375,width=2,fill=color[counter])
                 canvas.create_text(textpos[counter-2],375,anchor="w",text=j.Name+" "+j.Unit)
             counter+=1
+    button = tkinter.Button(canvas, text = "Re-select", command = reselect)
+    button_window = canvas.create_window(850,695,height=30,width = 100, anchor = "n", window = button)
             
-
+    
 def changeplotflag():
     global plotflag
     global canvas
     canvas.delete("all")
     plotflag ^=1
-    print (plotflag)
     plot_one()
     
 def add():
     global selectedList
-    global paramlist
     global selectroot
     selectroot = tkinter.Tk()
     selectcanvas = tkinter.Canvas(selectroot, height = 150, width = 125)
@@ -175,5 +117,66 @@ def add():
         newButtonWindow = selectcanvas.create_window(125/2,i*30,height=30,width=125,anchor = "n" , window = buttonlist[i])
         
 
-plot_one()
+def start():
+    global filename
+    Tk().withdraw() 
+    filename = askopenfilename()
+    selectedfileread()
+
+def reselect():
+    global filename
+    canvas.delete("all")
+    Tk().withdraw() 
+    filename = askopenfilename()
+    selectedfileread()
+    
+def selectedfileread():
+    global selectedList
+    global end
+    global start
+    global plotflag
+    global canvas
+    global paramlist
+    global sec
+    plotflag = 0
+    selectedList=[]
+    speed=[]
+    current=[]
+    nsec=[]
+    sec=[]
+    dc=[]
+    inputc=[]
+    currentq=[]
+    file=open(filename)
+    file=file.readlines()
+    for i in file:
+        a = i.strip(" ")
+        i_sep=a.split(":")
+        if(i_sep[0] =="speed"):
+            speed.append(float(i_sep[1]))
+        if(i_sep[0]=="current_motor"):
+            current.append(float(i_sep[1]))
+        if(i_sep[0]=="duty_cycle"):
+            dc.append(100*float(i_sep[1]))
+        if(i_sep[0]=="nsecs"):
+            nsec.append(float(i_sep[1]))
+        if(i_sep[0]=="secs"):
+            sec.append(float(i_sep[1]))
+        if(i_sep[0]=="current_input"):
+            inputc.append(float(i_sep[1]))
+        if(i_sep[0]=="current_q"):
+            currentq.append(float(i_sep[1]))
+
+
+    for i in range(len(speed)):
+        sec[i] = sec[i]+nsec[i]/(10**9)
+
+    start = sec[0]
+    end = sec[len(sec)-1]
+    xscale=600/(end-start)
+
+    paramlist = [param(speed,"speed","(ERPM)"), param(current, "motor current", "(A)"), param(dc, "duty cycle","(%)"), param(inputc, "input current", "(A)"), param(currentq , "q-axis current", "(A)")]
+    plot_one()
+
+start()
 mainloop()
