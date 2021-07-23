@@ -11,7 +11,7 @@ global pub
 def callback(data):
     global a
     global pub
-    a = data.axes[5]*5000.0
+    a = data.axes[5]*0.1
     rospy.loginfo(a)
     pub.publish(a)
     
@@ -22,7 +22,7 @@ def JoyControl():
     a=0
     rospy.init_node("JoyControl", anonymous=True)
     rospy.Subscriber("/joy_orig", Joy, callback)
-    pub = rospy.Publisher('/commands/motor/speed', Float64, queue_size=10)
+    pub = rospy.Publisher('/commands/motor/duty_cycle', Float64, queue_size=10)
     rospy.spin()  
 
 if __name__ == '__main__':
