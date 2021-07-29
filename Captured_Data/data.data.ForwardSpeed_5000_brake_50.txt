@@ -1,0 +1,8140 @@
+header: 
+  seq: 70667
+  stamp: 
+    secs: 1626277698
+    nsecs: 645929118
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70668
+  stamp: 
+    secs: 1626277698
+    nsecs: 665335215
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70669
+  stamp: 
+    secs: 1626277698
+    nsecs: 685321582
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70670
+  stamp: 
+    secs: 1626277698
+    nsecs: 705351805
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70671
+  stamp: 
+    secs: 1626277698
+    nsecs: 725266505
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70672
+  stamp: 
+    secs: 1626277698
+    nsecs: 745301780
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70673
+  stamp: 
+    secs: 1626277698
+    nsecs: 765599456
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70674
+  stamp: 
+    secs: 1626277698
+    nsecs: 786296306
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70675
+  stamp: 
+    secs: 1626277698
+    nsecs: 805329426
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70676
+  stamp: 
+    secs: 1626277698
+    nsecs: 825453088
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70677
+  stamp: 
+    secs: 1626277698
+    nsecs: 845370600
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70678
+  stamp: 
+    secs: 1626277698
+    nsecs: 865340041
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70679
+  stamp: 
+    secs: 1626277698
+    nsecs: 885357659
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 3.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70680
+  stamp: 
+    secs: 1626277698
+    nsecs: 905661481
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: -0.001
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70681
+  stamp: 
+    secs: 1626277698
+    nsecs: 926243954
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70682
+  stamp: 
+    secs: 1626277698
+    nsecs: 945310356
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70683
+  stamp: 
+    secs: 1626277698
+    nsecs: 965385163
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70684
+  stamp: 
+    secs: 1626277698
+    nsecs: 985363822
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70685
+  stamp: 
+    secs: 1626277699
+    nsecs:   5367222
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70686
+  stamp: 
+    secs: 1626277699
+    nsecs:  25696617
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70687
+  stamp: 
+    secs: 1626277699
+    nsecs:  49296230
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70688
+  stamp: 
+    secs: 1626277699
+    nsecs:  65966702
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70689
+  stamp: 
+    secs: 1626277699
+    nsecs:  88380512
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70690
+  stamp: 
+    secs: 1626277699
+    nsecs: 105536305
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -2.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70691
+  stamp: 
+    secs: 1626277699
+    nsecs: 125434651
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70692
+  stamp: 
+    secs: 1626277699
+    nsecs: 145441592
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70693
+  stamp: 
+    secs: 1626277699
+    nsecs: 165389313
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70694
+  stamp: 
+    secs: 1626277699
+    nsecs: 185444432
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70695
+  stamp: 
+    secs: 1626277699
+    nsecs: 205911747
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70696
+  stamp: 
+    secs: 1626277699
+    nsecs: 225391699
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70697
+  stamp: 
+    secs: 1626277699
+    nsecs: 245361816
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70698
+  stamp: 
+    secs: 1626277699
+    nsecs: 265404071
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70699
+  stamp: 
+    secs: 1626277699
+    nsecs: 285672735
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70700
+  stamp: 
+    secs: 1626277699
+    nsecs: 305407692
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70701
+  stamp: 
+    secs: 1626277699
+    nsecs: 325341924
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70702
+  stamp: 
+    secs: 1626277699
+    nsecs: 346335029
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70703
+  stamp: 
+    secs: 1626277699
+    nsecs: 365393307
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70704
+  stamp: 
+    secs: 1626277699
+    nsecs: 385397852
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70705
+  stamp: 
+    secs: 1626277699
+    nsecs: 405442138
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70706
+  stamp: 
+    secs: 1626277699
+    nsecs: 425383088
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70707
+  stamp: 
+    secs: 1626277699
+    nsecs: 445336591
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70708
+  stamp: 
+    secs: 1626277699
+    nsecs: 465431190
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70709
+  stamp: 
+    secs: 1626277699
+    nsecs: 486194239
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70710
+  stamp: 
+    secs: 1626277699
+    nsecs: 505721275
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70711
+  stamp: 
+    secs: 1626277699
+    nsecs: 525389981
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70712
+  stamp: 
+    secs: 1626277699
+    nsecs: 545675990
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70713
+  stamp: 
+    secs: 1626277699
+    nsecs: 565353498
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70714
+  stamp: 
+    secs: 1626277699
+    nsecs: 585384502
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70715
+  stamp: 
+    secs: 1626277699
+    nsecs: 605368682
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70716
+  stamp: 
+    secs: 1626277699
+    nsecs: 626345850
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70717
+  stamp: 
+    secs: 1626277699
+    nsecs: 645353710
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70718
+  stamp: 
+    secs: 1626277699
+    nsecs: 665579822
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70719
+  stamp: 
+    secs: 1626277699
+    nsecs: 685371863
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70720
+  stamp: 
+    secs: 1626277699
+    nsecs: 705350574
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70721
+  stamp: 
+    secs: 1626277699
+    nsecs: 725426788
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -2.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70722
+  stamp: 
+    secs: 1626277699
+    nsecs: 749168383
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -2.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70723
+  stamp: 
+    secs: 1626277699
+    nsecs: 766267404
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70724
+  stamp: 
+    secs: 1626277699
+    nsecs: 785373287
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70725
+  stamp: 
+    secs: 1626277699
+    nsecs: 805392416
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70726
+  stamp: 
+    secs: 1626277699
+    nsecs: 825597590
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70727
+  stamp: 
+    secs: 1626277699
+    nsecs: 845391715
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70728
+  stamp: 
+    secs: 1626277699
+    nsecs: 865343655
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70729
+  stamp: 
+    secs: 1626277699
+    nsecs: 885370857
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70730
+  stamp: 
+    secs: 1626277699
+    nsecs: 906390317
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -2.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70731
+  stamp: 
+    secs: 1626277699
+    nsecs: 926345070
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70732
+  stamp: 
+    secs: 1626277699
+    nsecs: 945809553
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70733
+  stamp: 
+    secs: 1626277699
+    nsecs: 965779774
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70734
+  stamp: 
+    secs: 1626277699
+    nsecs: 985361291
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70735
+  stamp: 
+    secs: 1626277700
+    nsecs:   6040432
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70736
+  stamp: 
+    secs: 1626277700
+    nsecs:  25441529
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70737
+  stamp: 
+    secs: 1626277700
+    nsecs:  45401177
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70738
+  stamp: 
+    secs: 1626277700
+    nsecs:  65412598
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70739
+  stamp: 
+    secs: 1626277700
+    nsecs:  85586990
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70740
+  stamp: 
+    secs: 1626277700
+    nsecs: 106105243
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70741
+  stamp: 
+    secs: 1626277700
+    nsecs: 126108799
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70742
+  stamp: 
+    secs: 1626277700
+    nsecs: 145559271
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70743
+  stamp: 
+    secs: 1626277700
+    nsecs: 166165339
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70744
+  stamp: 
+    secs: 1626277700
+    nsecs: 187296468
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: -0.001
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70745
+  stamp: 
+    secs: 1626277700
+    nsecs: 205875049
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -1.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70746
+  stamp: 
+    secs: 1626277700
+    nsecs: 226202517
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: 0.0
+  duty_cycle: 0.0
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3922.0
+  distance_traveled: 26286.0
+  fault_code: 0
+---
+header: 
+  seq: 70747
+  stamp: 
+    secs: 1626277700
+    nsecs: 247420366
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 15.56
+  current_input: 1.08
+  current_q: 17.47
+  speed: 105.0
+  duty_cycle: 0.069
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3923.0
+  distance_traveled: 26287.0
+  fault_code: 0
+---
+header: 
+  seq: 70748
+  stamp: 
+    secs: 1626277700
+    nsecs: 265976186
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 50.89
+  current_input: 2.78
+  current_q: 49.92
+  speed: 79.0
+  duty_cycle: 0.064
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3923.0
+  distance_traveled: 26287.0
+  fault_code: 0
+---
+header: 
+  seq: 70749
+  stamp: 
+    secs: 1626277700
+    nsecs: 286159746
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.06
+  current_input: 2.76
+  current_q: 50.0
+  speed: 55.0
+  duty_cycle: 0.063
+  charge_drawn: 106.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3923.0
+  distance_traveled: 26287.0
+  fault_code: 0
+---
+header: 
+  seq: 70750
+  stamp: 
+    secs: 1626277700
+    nsecs: 306178145
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.0
+  current_input: 2.76
+  current_q: 49.99
+  speed: 38.0
+  duty_cycle: 0.063
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3923.0
+  distance_traveled: 26287.0
+  fault_code: 0
+---
+header: 
+  seq: 70751
+  stamp: 
+    secs: 1626277700
+    nsecs: 328818157
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.98
+  current_input: 2.76
+  current_q: 49.98
+  speed: 25.0
+  duty_cycle: 0.063
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3923.0
+  distance_traveled: 26287.0
+  fault_code: 0
+---
+header: 
+  seq: 70752
+  stamp: 
+    secs: 1626277700
+    nsecs: 346039108
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 39.6
+  current_input: 2.15
+  current_q: 38.95
+  speed: 242.0
+  duty_cycle: 0.078
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3924.0
+  distance_traveled: 26288.0
+  fault_code: 0
+---
+header: 
+  seq: 70753
+  stamp: 
+    secs: 1626277700
+    nsecs: 366470849
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.72
+  current_input: 2.83
+  current_q: 50.88
+  speed: 229.0
+  duty_cycle: 0.064
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3925.0
+  distance_traveled: 26289.0
+  fault_code: 0
+---
+header: 
+  seq: 70754
+  stamp: 
+    secs: 1626277700
+    nsecs: 387225878
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.28
+  current_input: 2.76
+  current_q: 50.12
+  speed: 278.0
+  duty_cycle: 0.063
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3926.0
+  distance_traveled: 26290.0
+  fault_code: 0
+---
+header: 
+  seq: 70755
+  stamp: 
+    secs: 1626277700
+    nsecs: 407256309
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.98
+  current_input: 2.78
+  current_q: 49.8
+  speed: 384.0
+  duty_cycle: 0.068
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3927.0
+  distance_traveled: 26291.0
+  fault_code: 0
+---
+header: 
+  seq: 70756
+  stamp: 
+    secs: 1626277700
+    nsecs: 426322607
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.55
+  current_input: 2.94
+  current_q: 49.68
+  speed: 508.0
+  duty_cycle: 0.077
+  charge_drawn: 107.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3929.0
+  distance_traveled: 26293.0
+  fault_code: 0
+---
+header: 
+  seq: 70757
+  stamp: 
+    secs: 1626277700
+    nsecs: 446536584
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.56
+  current_input: 2.98
+  current_q: 49.22
+  speed: 662.0
+  duty_cycle: 0.088
+  charge_drawn: 108.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3931.0
+  distance_traveled: 26295.0
+  fault_code: 0
+---
+header: 
+  seq: 70758
+  stamp: 
+    secs: 1626277700
+    nsecs: 466572796
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 50.96
+  current_input: 3.27
+  current_q: 50.94
+  speed: 796.0
+  duty_cycle: 0.075
+  charge_drawn: 108.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3933.0
+  distance_traveled: 26297.0
+  fault_code: 0
+---
+header: 
+  seq: 70759
+  stamp: 
+    secs: 1626277700
+    nsecs: 487309752
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.09
+  current_input: 3.48
+  current_q: 50.17
+  speed: 889.0
+  duty_cycle: 0.074
+  charge_drawn: 108.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3936.0
+  distance_traveled: 26300.0
+  fault_code: 0
+---
+header: 
+  seq: 70760
+  stamp: 
+    secs: 1626277700
+    nsecs: 506335112
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 48.91
+  current_input: 3.23
+  current_q: 48.84
+  speed: 898.0
+  duty_cycle: 0.091
+  charge_drawn: 108.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3937.0
+  distance_traveled: 26301.0
+  fault_code: 0
+---
+header: 
+  seq: 70761
+  stamp: 
+    secs: 1626277700
+    nsecs: 526036891
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 50.71
+  current_input: 3.64
+  current_q: 50.65
+  speed: 994.0
+  duty_cycle: 0.083
+  charge_drawn: 108.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3940.0
+  distance_traveled: 26304.0
+  fault_code: 0
+---
+header: 
+  seq: 70762
+  stamp: 
+    secs: 1626277700
+    nsecs: 546458632
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.95
+  current_input: 3.69
+  current_q: 49.92
+  speed: 1120.0
+  duty_cycle: 0.086
+  charge_drawn: 109.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3943.0
+  distance_traveled: 26307.0
+  fault_code: 0
+---
+header: 
+  seq: 70763
+  stamp: 
+    secs: 1626277700
+    nsecs: 566472709
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.77
+  current_input: 3.77
+  current_q: 49.64
+  speed: 1267.0
+  duty_cycle: 0.093
+  charge_drawn: 109.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3946.0
+  distance_traveled: 26310.0
+  fault_code: 0
+---
+header: 
+  seq: 70764
+  stamp: 
+    secs: 1626277700
+    nsecs: 586147039
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.22
+  current_input: 3.95
+  current_q: 50.25
+  speed: 1412.0
+  duty_cycle: 0.091
+  charge_drawn: 109.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3950.0
+  distance_traveled: 26314.0
+  fault_code: 0
+---
+header: 
+  seq: 70765
+  stamp: 
+    secs: 1626277700
+    nsecs: 606356432
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 50.11
+  current_input: 4.09
+  current_q: 49.95
+  speed: 1588.0
+  duty_cycle: 0.094
+  charge_drawn: 109.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3954.0
+  distance_traveled: 26318.0
+  fault_code: 0
+---
+header: 
+  seq: 70766
+  stamp: 
+    secs: 1626277700
+    nsecs: 626561086
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.87
+  current_input: 4.25
+  current_q: 49.88
+  speed: 1794.0
+  duty_cycle: 0.099
+  charge_drawn: 110.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3959.0
+  distance_traveled: 26323.0
+  fault_code: 0
+---
+header: 
+  seq: 70767
+  stamp: 
+    secs: 1626277700
+    nsecs: 646601934
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 50.05
+  current_input: 4.38
+  current_q: 49.95
+  speed: 1984.0
+  duty_cycle: 0.102
+  charge_drawn: 110.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3964.0
+  distance_traveled: 26328.0
+  fault_code: 0
+---
+header: 
+  seq: 70768
+  stamp: 
+    secs: 1626277700
+    nsecs: 667636030
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.87
+  current_input: 4.54
+  current_q: 49.76
+  speed: 2211.0
+  duty_cycle: 0.104
+  charge_drawn: 110.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3970.0
+  distance_traveled: 26334.0
+  fault_code: 0
+---
+header: 
+  seq: 70769
+  stamp: 
+    secs: 1626277700
+    nsecs: 686392322
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 48.23
+  current_input: 4.43
+  current_q: 47.96
+  speed: 2413.0
+  duty_cycle: 0.108
+  charge_drawn: 110.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3975.0
+  distance_traveled: 26339.0
+  fault_code: 0
+---
+header: 
+  seq: 70770
+  stamp: 
+    secs: 1626277700
+    nsecs: 706602184
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 46.16
+  current_input: 4.25
+  current_q: 46.01
+  speed: 2621.0
+  duty_cycle: 0.101
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3982.0
+  distance_traveled: 26346.0
+  fault_code: 0
+---
+header: 
+  seq: 70771
+  stamp: 
+    secs: 1626277700
+    nsecs: 727258825
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 41.57
+  current_input: 3.76
+  current_q: 41.48
+  speed: 2823.0
+  duty_cycle: 0.105
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3989.0
+  distance_traveled: 26353.0
+  fault_code: 0
+---
+header: 
+  seq: 70772
+  stamp: 
+    secs: 1626277700
+    nsecs: 747447958
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 38.31
+  current_input: 3.41
+  current_q: 38.05
+  speed: 3019.0
+  duty_cycle: 0.1
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 3996.0
+  distance_traveled: 26360.0
+  fault_code: 0
+---
+header: 
+  seq: 70773
+  stamp: 
+    secs: 1626277700
+    nsecs: 766068623
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 35.57
+  current_input: 3.14
+  current_q: 35.23
+  speed: 3199.0
+  duty_cycle: 0.105
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4003.0
+  distance_traveled: 26367.0
+  fault_code: 0
+---
+header: 
+  seq: 70774
+  stamp: 
+    secs: 1626277700
+    nsecs: 786070147
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 32.89
+  current_input: 2.89
+  current_q: 32.8
+  speed: 3373.0
+  duty_cycle: 0.098
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4011.0
+  distance_traveled: 26375.0
+  fault_code: 0
+---
+header: 
+  seq: 70775
+  stamp: 
+    secs: 1626277700
+    nsecs: 806130214
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 30.96
+  current_input: 2.71
+  current_q: 30.9
+  speed: 3526.0
+  duty_cycle: 0.097
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4019.0
+  distance_traveled: 26383.0
+  fault_code: 0
+---
+header: 
+  seq: 70776
+  stamp: 
+    secs: 1626277700
+    nsecs: 826151635
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 29.33
+  current_input: 2.55
+  current_q: 29.17
+  speed: 3662.0
+  duty_cycle: 0.102
+  charge_drawn: 111.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4027.0
+  distance_traveled: 26391.0
+  fault_code: 0
+---
+header: 
+  seq: 70777
+  stamp: 
+    secs: 1626277700
+    nsecs: 846300402
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 27.28
+  current_input: 2.34
+  current_q: 26.92
+  speed: 3800.0
+  duty_cycle: 0.101
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4035.0
+  distance_traveled: 26399.0
+  fault_code: 0
+---
+header: 
+  seq: 70778
+  stamp: 
+    secs: 1626277700
+    nsecs: 866148173
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 25.63
+  current_input: 2.22
+  current_q: 25.73
+  speed: 3917.0
+  duty_cycle: 0.096
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4044.0
+  distance_traveled: 26408.0
+  fault_code: 0
+---
+header: 
+  seq: 70779
+  stamp: 
+    secs: 1626277700
+    nsecs: 886019591
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 24.38
+  current_input: 2.08
+  current_q: 24.08
+  speed: 4028.0
+  duty_cycle: 0.102
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4052.0
+  distance_traveled: 26416.0
+  fault_code: 0
+---
+header: 
+  seq: 70780
+  stamp: 
+    secs: 1626277700
+    nsecs: 906860507
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 21.32
+  current_input: 1.8
+  current_q: 21.19
+  speed: 4153.0
+  duty_cycle: 0.091
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4062.0
+  distance_traveled: 26426.0
+  fault_code: 0
+---
+header: 
+  seq: 70781
+  stamp: 
+    secs: 1626277700
+    nsecs: 926953439
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 19.62
+  current_input: 1.67
+  current_q: 19.7
+  speed: 4250.0
+  duty_cycle: 0.1
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4071.0
+  distance_traveled: 26435.0
+  fault_code: 0
+---
+header: 
+  seq: 70782
+  stamp: 
+    secs: 1626277700
+    nsecs: 946064113
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 19.19
+  current_input: 1.6
+  current_q: 18.88
+  speed: 4346.0
+  duty_cycle: 0.089
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4080.0
+  distance_traveled: 26444.0
+  fault_code: 0
+---
+header: 
+  seq: 70783
+  stamp: 
+    secs: 1626277700
+    nsecs: 968715896
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 20.83
+  current_input: 1.79
+  current_q: 20.78
+  speed: 4402.0
+  duty_cycle: 0.105
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4090.0
+  distance_traveled: 26454.0
+  fault_code: 0
+---
+header: 
+  seq: 70784
+  stamp: 
+    secs: 1626277700
+    nsecs: 987109057
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 18.95
+  current_input: 1.59
+  current_q: 18.7
+  speed: 4467.0
+  duty_cycle: 0.095
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4099.0
+  distance_traveled: 26463.0
+  fault_code: 0
+---
+header: 
+  seq: 70785
+  stamp: 
+    secs: 1626277701
+    nsecs:   6276607
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 18.17
+  current_input: 1.55
+  current_q: 18.18
+  speed: 4523.0
+  duty_cycle: 0.102
+  charge_drawn: 112.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4108.0
+  distance_traveled: 26472.0
+  fault_code: 0
+---
+header: 
+  seq: 70786
+  stamp: 
+    secs: 1626277701
+    nsecs:  27552375
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 15.01
+  current_input: 1.22
+  current_q: 14.7
+  speed: 4606.0
+  duty_cycle: 0.096
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4118.0
+  distance_traveled: 26482.0
+  fault_code: 0
+---
+header: 
+  seq: 70787
+  stamp: 
+    secs: 1626277701
+    nsecs:  46776333
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 14.33
+  current_input: 1.18
+  current_q: 14.26
+  speed: 4669.0
+  duty_cycle: 0.093
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4127.0
+  distance_traveled: 26491.0
+  fault_code: 0
+---
+header: 
+  seq: 70788
+  stamp: 
+    secs: 1626277701
+    nsecs:  66561655
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 15.14
+  current_input: 1.27
+  current_q: 15.16
+  speed: 4709.0
+  duty_cycle: 0.101
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4137.0
+  distance_traveled: 26501.0
+  fault_code: 0
+---
+header: 
+  seq: 70789
+  stamp: 
+    secs: 1626277701
+    nsecs:  86829487
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 15.06
+  current_input: 1.23
+  current_q: 14.69
+  speed: 4755.0
+  duty_cycle: 0.093
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4146.0
+  distance_traveled: 26510.0
+  fault_code: 0
+---
+header: 
+  seq: 70790
+  stamp: 
+    secs: 1626277701
+    nsecs: 106199437
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 14.67
+  current_input: 1.23
+  current_q: 14.69
+  speed: 4782.0
+  duty_cycle: 0.098
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4156.0
+  distance_traveled: 26520.0
+  fault_code: 0
+---
+header: 
+  seq: 70791
+  stamp: 
+    secs: 1626277701
+    nsecs: 126183670
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 14.36
+  current_input: 1.2
+  current_q: 14.42
+  speed: 4811.0
+  duty_cycle: 0.097
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4166.0
+  distance_traveled: 26530.0
+  fault_code: 0
+---
+header: 
+  seq: 70792
+  stamp: 
+    secs: 1626277701
+    nsecs: 146819477
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 13.88
+  current_input: 1.13
+  current_q: 13.6
+  speed: 4849.0
+  duty_cycle: 0.09
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4176.0
+  distance_traveled: 26540.0
+  fault_code: 0
+---
+header: 
+  seq: 70793
+  stamp: 
+    secs: 1626277701
+    nsecs: 166566361
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 13.45
+  current_input: 1.11
+  current_q: 13.37
+  speed: 4871.0
+  duty_cycle: 0.096
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4186.0
+  distance_traveled: 26550.0
+  fault_code: 0
+---
+header: 
+  seq: 70794
+  stamp: 
+    secs: 1626277701
+    nsecs: 186146524
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.98
+  current_input: 0.88
+  current_q: 10.84
+  speed: 4916.0
+  duty_cycle: 0.095
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4196.0
+  distance_traveled: 26560.0
+  fault_code: 0
+---
+header: 
+  seq: 70795
+  stamp: 
+    secs: 1626277701
+    nsecs: 206492899
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.8
+  current_input: 0.86
+  current_q: 10.68
+  speed: 4950.0
+  duty_cycle: 0.094
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4206.0
+  distance_traveled: 26570.0
+  fault_code: 0
+---
+header: 
+  seq: 70796
+  stamp: 
+    secs: 1626277701
+    nsecs: 227008443
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 12.93
+  current_input: 1.07
+  current_q: 12.82
+  speed: 4964.0
+  duty_cycle: 0.094
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4216.0
+  distance_traveled: 26580.0
+  fault_code: 0
+---
+header: 
+  seq: 70797
+  stamp: 
+    secs: 1626277701
+    nsecs: 246189952
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 13.57
+  current_input: 1.13
+  current_q: 13.54
+  speed: 4958.0
+  duty_cycle: 0.097
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4226.0
+  distance_traveled: 26590.0
+  fault_code: 0
+---
+header: 
+  seq: 70798
+  stamp: 
+    secs: 1626277701
+    nsecs: 267582597
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 13.63
+  current_input: 1.11
+  current_q: 13.27
+  speed: 4967.0
+  duty_cycle: 0.095
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4236.0
+  distance_traveled: 26600.0
+  fault_code: 0
+---
+header: 
+  seq: 70799
+  stamp: 
+    secs: 1626277701
+    nsecs: 287015205
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.58
+  current_input: 0.95
+  current_q: 11.55
+  speed: 4988.0
+  duty_cycle: 0.092
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4246.0
+  distance_traveled: 26610.0
+  fault_code: 0
+---
+header: 
+  seq: 70800
+  stamp: 
+    secs: 1626277701
+    nsecs: 306389374
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.7
+  current_input: 0.86
+  current_q: 10.56
+  speed: 5012.0
+  duty_cycle: 0.094
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4256.0
+  distance_traveled: 26620.0
+  fault_code: 0
+---
+header: 
+  seq: 70801
+  stamp: 
+    secs: 1626277701
+    nsecs: 327172007
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.55
+  current_input: 0.83
+  current_q: 10.32
+  speed: 5030.0
+  duty_cycle: 0.095
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4266.0
+  distance_traveled: 26630.0
+  fault_code: 0
+---
+header: 
+  seq: 70802
+  stamp: 
+    secs: 1626277701
+    nsecs: 345782463
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.71
+  current_input: 0.96
+  current_q: 11.64
+  speed: 5036.0
+  duty_cycle: 0.094
+  charge_drawn: 113.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4276.0
+  distance_traveled: 26640.0
+  fault_code: 0
+---
+header: 
+  seq: 70803
+  stamp: 
+    secs: 1626277701
+    nsecs: 366021649
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.11
+  current_input: 0.89
+  current_q: 10.93
+  speed: 5046.0
+  duty_cycle: 0.096
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4286.0
+  distance_traveled: 26650.0
+  fault_code: 0
+---
+header: 
+  seq: 70804
+  stamp: 
+    secs: 1626277701
+    nsecs: 387182570
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.95
+  current_input: 0.89
+  current_q: 10.9
+  speed: 5054.0
+  duty_cycle: 0.095
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4297.0
+  distance_traveled: 26661.0
+  fault_code: 0
+---
+header: 
+  seq: 70805
+  stamp: 
+    secs: 1626277701
+    nsecs: 407117895
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.44
+  current_input: 0.93
+  current_q: 11.38
+  speed: 5059.0
+  duty_cycle: 0.092
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4307.0
+  distance_traveled: 26671.0
+  fault_code: 0
+---
+header: 
+  seq: 70806
+  stamp: 
+    secs: 1626277701
+    nsecs: 428251421
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.35
+  current_input: 0.91
+  current_q: 11.1
+  speed: 5064.0
+  duty_cycle: 0.096
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4317.0
+  distance_traveled: 26681.0
+  fault_code: 0
+---
+header: 
+  seq: 70807
+  stamp: 
+    secs: 1626277701
+    nsecs: 446715208
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.22
+  current_input: 0.72
+  current_q: 9.01
+  speed: 5084.0
+  duty_cycle: 0.093
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4327.0
+  distance_traveled: 26691.0
+  fault_code: 0
+---
+header: 
+  seq: 70808
+  stamp: 
+    secs: 1626277701
+    nsecs: 467347421
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.29
+  current_input: 0.74
+  current_q: 9.23
+  speed: 5101.0
+  duty_cycle: 0.093
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4338.0
+  distance_traveled: 26702.0
+  fault_code: 0
+---
+header: 
+  seq: 70809
+  stamp: 
+    secs: 1626277701
+    nsecs: 486699871
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.62
+  current_input: 0.95
+  current_q: 11.61
+  speed: 5088.0
+  duty_cycle: 0.098
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4348.0
+  distance_traveled: 26712.0
+  fault_code: 0
+---
+header: 
+  seq: 70810
+  stamp: 
+    secs: 1626277701
+    nsecs: 507639278
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 13.11
+  current_input: 1.09
+  current_q: 13.12
+  speed: 5065.0
+  duty_cycle: 0.098
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4358.0
+  distance_traveled: 26722.0
+  fault_code: 0
+---
+header: 
+  seq: 70811
+  stamp: 
+    secs: 1626277701
+    nsecs: 527434184
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 12.42
+  current_input: 1.01
+  current_q: 12.13
+  speed: 5068.0
+  duty_cycle: 0.091
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4368.0
+  distance_traveled: 26732.0
+  fault_code: 0
+---
+header: 
+  seq: 70812
+  stamp: 
+    secs: 1626277701
+    nsecs: 546308396
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.55
+  current_input: 0.75
+  current_q: 9.37
+  speed: 5085.0
+  duty_cycle: 0.091
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4378.0
+  distance_traveled: 26742.0
+  fault_code: 0
+---
+header: 
+  seq: 70813
+  stamp: 
+    secs: 1626277701
+    nsecs: 566506382
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.41
+  current_input: 0.65
+  current_q: 8.21
+  speed: 5107.0
+  duty_cycle: 0.095
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4388.0
+  distance_traveled: 26752.0
+  fault_code: 0
+---
+header: 
+  seq: 70814
+  stamp: 
+    secs: 1626277701
+    nsecs: 586293215
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.78
+  current_input: 0.78
+  current_q: 9.74
+  speed: 5111.0
+  duty_cycle: 0.093
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4399.0
+  distance_traveled: 26763.0
+  fault_code: 0
+---
+header: 
+  seq: 70815
+  stamp: 
+    secs: 1626277701
+    nsecs: 606946731
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.63
+  current_input: 0.95
+  current_q: 11.62
+  speed: 5100.0
+  duty_cycle: 0.092
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4409.0
+  distance_traveled: 26773.0
+  fault_code: 0
+---
+header: 
+  seq: 70816
+  stamp: 
+    secs: 1626277701
+    nsecs: 626369807
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.3
+  current_input: 0.92
+  current_q: 11.19
+  speed: 5094.0
+  duty_cycle: 0.092
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4419.0
+  distance_traveled: 26783.0
+  fault_code: 0
+---
+header: 
+  seq: 70817
+  stamp: 
+    secs: 1626277701
+    nsecs: 646744308
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.83
+  current_input: 0.86
+  current_q: 10.57
+  speed: 5092.0
+  duty_cycle: 0.094
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4429.0
+  distance_traveled: 26793.0
+  fault_code: 0
+---
+header: 
+  seq: 70818
+  stamp: 
+    secs: 1626277701
+    nsecs: 667020421
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.8
+  current_input: 0.87
+  current_q: 10.64
+  speed: 5095.0
+  duty_cycle: 0.096
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4439.0
+  distance_traveled: 26803.0
+  fault_code: 0
+---
+header: 
+  seq: 70819
+  stamp: 
+    secs: 1626277701
+    nsecs: 686148596
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.97
+  current_input: 0.89
+  current_q: 10.86
+  speed: 5093.0
+  duty_cycle: 0.097
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4449.0
+  distance_traveled: 26813.0
+  fault_code: 0
+---
+header: 
+  seq: 70820
+  stamp: 
+    secs: 1626277701
+    nsecs: 706161683
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.93
+  current_input: 0.8
+  current_q: 9.88
+  speed: 5103.0
+  duty_cycle: 0.094
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4460.0
+  distance_traveled: 26824.0
+  fault_code: 0
+---
+header: 
+  seq: 70821
+  stamp: 
+    secs: 1626277701
+    nsecs: 725728460
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.59
+  current_input: 0.76
+  current_q: 9.51
+  speed: 5110.0
+  duty_cycle: 0.093
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4470.0
+  distance_traveled: 26834.0
+  fault_code: 0
+---
+header: 
+  seq: 70822
+  stamp: 
+    secs: 1626277701
+    nsecs: 747209387
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.62
+  current_input: 0.95
+  current_q: 11.51
+  speed: 5097.0
+  duty_cycle: 0.096
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4480.0
+  distance_traveled: 26844.0
+  fault_code: 0
+---
+header: 
+  seq: 70823
+  stamp: 
+    secs: 1626277701
+    nsecs: 767419249
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 12.64
+  current_input: 1.04
+  current_q: 12.52
+  speed: 5078.0
+  duty_cycle: 0.096
+  charge_drawn: 114.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4490.0
+  distance_traveled: 26854.0
+  fault_code: 0
+---
+header: 
+  seq: 70824
+  stamp: 
+    secs: 1626277701
+    nsecs: 786734354
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.62
+  current_input: 0.93
+  current_q: 11.34
+  speed: 5078.0
+  duty_cycle: 0.094
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4500.0
+  distance_traveled: 26864.0
+  fault_code: 0
+---
+header: 
+  seq: 70825
+  stamp: 
+    secs: 1626277701
+    nsecs: 808514402
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.61
+  current_input: 0.76
+  current_q: 9.41
+  speed: 5098.0
+  duty_cycle: 0.091
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4511.0
+  distance_traveled: 26875.0
+  fault_code: 0
+---
+header: 
+  seq: 70826
+  stamp: 
+    secs: 1626277701
+    nsecs: 827470386
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 8.41
+  current_input: 0.66
+  current_q: 8.43
+  speed: 5113.0
+  duty_cycle: 0.091
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4521.0
+  distance_traveled: 26885.0
+  fault_code: 0
+---
+header: 
+  seq: 70827
+  stamp: 
+    secs: 1626277701
+    nsecs: 846556164
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.03
+  current_input: 0.8
+  current_q: 9.95
+  speed: 5106.0
+  duty_cycle: 0.096
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4531.0
+  distance_traveled: 26895.0
+  fault_code: 0
+---
+header: 
+  seq: 70828
+  stamp: 
+    secs: 1626277701
+    nsecs: 866926446
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.43
+  current_input: 0.92
+  current_q: 11.21
+  speed: 5101.0
+  duty_cycle: 0.096
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4541.0
+  distance_traveled: 26905.0
+  fault_code: 0
+---
+header: 
+  seq: 70829
+  stamp: 
+    secs: 1626277701
+    nsecs: 886599266
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.51
+  current_input: 0.94
+  current_q: 11.47
+  speed: 5095.0
+  duty_cycle: 0.096
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4552.0
+  distance_traveled: 26916.0
+  fault_code: 0
+---
+header: 
+  seq: 70830
+  stamp: 
+    secs: 1626277701
+    nsecs: 906333390
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.1
+  current_input: 0.81
+  current_q: 10.0
+  speed: 5099.0
+  duty_cycle: 0.093
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4562.0
+  distance_traveled: 26926.0
+  fault_code: 0
+---
+header: 
+  seq: 70831
+  stamp: 
+    secs: 1626277701
+    nsecs: 927293787
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.34
+  current_input: 0.73
+  current_q: 9.16
+  speed: 5110.0
+  duty_cycle: 0.091
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4572.0
+  distance_traveled: 26936.0
+  fault_code: 0
+---
+header: 
+  seq: 70832
+  stamp: 
+    secs: 1626277701
+    nsecs: 947289061
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.74
+  current_input: 0.77
+  current_q: 9.53
+  speed: 5117.0
+  duty_cycle: 0.092
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4582.0
+  distance_traveled: 26946.0
+  fault_code: 0
+---
+header: 
+  seq: 70833
+  stamp: 
+    secs: 1626277701
+    nsecs: 965967905
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.45
+  current_input: 0.74
+  current_q: 9.3
+  speed: 5121.0
+  duty_cycle: 0.095
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4592.0
+  distance_traveled: 26956.0
+  fault_code: 0
+---
+header: 
+  seq: 70834
+  stamp: 
+    secs: 1626277701
+    nsecs: 985868854
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.62
+  current_input: 0.77
+  current_q: 9.57
+  speed: 5123.0
+  duty_cycle: 0.094
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4603.0
+  distance_traveled: 26967.0
+  fault_code: 0
+---
+header: 
+  seq: 70835
+  stamp: 
+    secs: 1626277702
+    nsecs:   6028038
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.5
+  current_input: 0.85
+  current_q: 10.48
+  speed: 5118.0
+  duty_cycle: 0.093
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4613.0
+  distance_traveled: 26977.0
+  fault_code: 0
+---
+header: 
+  seq: 70836
+  stamp: 
+    secs: 1626277702
+    nsecs:  26095606
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.08
+  current_input: 0.89
+  current_q: 10.91
+  speed: 5108.0
+  duty_cycle: 0.095
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4623.0
+  distance_traveled: 26987.0
+  fault_code: 0
+---
+header: 
+  seq: 70837
+  stamp: 
+    secs: 1626277702
+    nsecs:  46326458
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 8.93
+  current_input: 0.68
+  current_q: 8.63
+  speed: 5123.0
+  duty_cycle: 0.094
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4633.0
+  distance_traveled: 26997.0
+  fault_code: 0
+---
+header: 
+  seq: 70838
+  stamp: 
+    secs: 1626277702
+    nsecs:  66984818
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 7.92
+  current_input: 0.61
+  current_q: 7.7
+  speed: 5147.0
+  duty_cycle: 0.086
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4644.0
+  distance_traveled: 27008.0
+  fault_code: 0
+---
+header: 
+  seq: 70839
+  stamp: 
+    secs: 1626277702
+    nsecs:  86217838
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 6.66
+  current_input: 0.5
+  current_q: 6.43
+  speed: 5173.0
+  duty_cycle: 0.089
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4654.0
+  distance_traveled: 27018.0
+  fault_code: 0
+---
+header: 
+  seq: 70840
+  stamp: 
+    secs: 1626277702
+    nsecs: 106871979
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 7.52
+  current_input: 0.59
+  current_q: 7.6
+  speed: 5177.0
+  duty_cycle: 0.09
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4665.0
+  distance_traveled: 27029.0
+  fault_code: 0
+---
+header: 
+  seq: 70841
+  stamp: 
+    secs: 1626277702
+    nsecs: 126299066
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.62
+  current_input: 0.66
+  current_q: 8.4
+  speed: 5174.0
+  duty_cycle: 0.091
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4675.0
+  distance_traveled: 27039.0
+  fault_code: 0
+---
+header: 
+  seq: 70842
+  stamp: 
+    secs: 1626277702
+    nsecs: 146455281
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.29
+  current_input: 0.73
+  current_q: 9.15
+  speed: 5172.0
+  duty_cycle: 0.092
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4685.0
+  distance_traveled: 27049.0
+  fault_code: 0
+---
+header: 
+  seq: 70843
+  stamp: 
+    secs: 1626277702
+    nsecs: 167574066
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.52
+  current_input: 0.66
+  current_q: 8.33
+  speed: 5175.0
+  duty_cycle: 0.091
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4696.0
+  distance_traveled: 27060.0
+  fault_code: 0
+---
+header: 
+  seq: 70844
+  stamp: 
+    secs: 1626277702
+    nsecs: 186781878
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.06
+  current_input: 0.63
+  current_q: 7.97
+  speed: 5175.0
+  duty_cycle: 0.093
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4706.0
+  distance_traveled: 27070.0
+  fault_code: 0
+---
+header: 
+  seq: 70845
+  stamp: 
+    secs: 1626277702
+    nsecs: 206143703
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 7.96
+  current_input: 0.61
+  current_q: 7.74
+  speed: 5183.0
+  duty_cycle: 0.092
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4716.0
+  distance_traveled: 27080.0
+  fault_code: 0
+---
+header: 
+  seq: 70846
+  stamp: 
+    secs: 1626277702
+    nsecs: 227447492
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.11
+  current_input: 0.72
+  current_q: 9.1
+  speed: 5173.0
+  duty_cycle: 0.092
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4727.0
+  distance_traveled: 27091.0
+  fault_code: 0
+---
+header: 
+  seq: 70847
+  stamp: 
+    secs: 1626277702
+    nsecs: 248584663
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.65
+  current_input: 0.86
+  current_q: 10.54
+  speed: 5156.0
+  duty_cycle: 0.095
+  charge_drawn: 115.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4738.0
+  distance_traveled: 27102.0
+  fault_code: 0
+---
+header: 
+  seq: 70848
+  stamp: 
+    secs: 1626277702
+    nsecs: 266509274
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.17
+  current_input: 0.9
+  current_q: 11.01
+  speed: 5135.0
+  duty_cycle: 0.095
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4747.0
+  distance_traveled: 27111.0
+  fault_code: 0
+---
+header: 
+  seq: 70849
+  stamp: 
+    secs: 1626277702
+    nsecs: 286680020
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.49
+  current_input: 0.84
+  current_q: 10.3
+  speed: 5133.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4757.0
+  distance_traveled: 27121.0
+  fault_code: 0
+---
+header: 
+  seq: 70850
+  stamp: 
+    secs: 1626277702
+    nsecs: 305966688
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.12
+  current_input: 0.72
+  current_q: 9.06
+  speed: 5137.0
+  duty_cycle: 0.091
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4768.0
+  distance_traveled: 27132.0
+  fault_code: 0
+---
+header: 
+  seq: 70851
+  stamp: 
+    secs: 1626277702
+    nsecs: 326230926
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.43
+  current_input: 0.66
+  current_q: 8.33
+  speed: 5142.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4778.0
+  distance_traveled: 27142.0
+  fault_code: 0
+---
+header: 
+  seq: 70852
+  stamp: 
+    secs: 1626277702
+    nsecs: 346428183
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 7.96
+  current_input: 0.6
+  current_q: 7.67
+  speed: 5153.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4788.0
+  distance_traveled: 27152.0
+  fault_code: 0
+---
+header: 
+  seq: 70853
+  stamp: 
+    secs: 1626277702
+    nsecs: 367392330
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.18
+  current_input: 0.72
+  current_q: 9.08
+  speed: 5150.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4799.0
+  distance_traveled: 27163.0
+  fault_code: 0
+---
+header: 
+  seq: 70854
+  stamp: 
+    secs: 1626277702
+    nsecs: 387334375
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.55
+  current_input: 0.86
+  current_q: 10.58
+  speed: 5134.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4809.0
+  distance_traveled: 27173.0
+  fault_code: 0
+---
+header: 
+  seq: 70855
+  stamp: 
+    secs: 1626277702
+    nsecs: 406745471
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.99
+  current_input: 0.88
+  current_q: 10.78
+  speed: 5118.0
+  duty_cycle: 0.096
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4819.0
+  distance_traveled: 27183.0
+  fault_code: 0
+---
+header: 
+  seq: 70856
+  stamp: 
+    secs: 1626277702
+    nsecs: 426932416
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.27
+  current_input: 0.82
+  current_q: 10.11
+  speed: 5118.0
+  duty_cycle: 0.091
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4829.0
+  distance_traveled: 27193.0
+  fault_code: 0
+---
+header: 
+  seq: 70857
+  stamp: 
+    secs: 1626277702
+    nsecs: 445773085
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.1
+  current_input: 0.71
+  current_q: 8.91
+  speed: 5127.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4839.0
+  distance_traveled: 27203.0
+  fault_code: 0
+---
+header: 
+  seq: 70858
+  stamp: 
+    secs: 1626277702
+    nsecs: 468475130
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.51
+  current_input: 0.66
+  current_q: 8.43
+  speed: 5131.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4850.0
+  distance_traveled: 27214.0
+  fault_code: 0
+---
+header: 
+  seq: 70859
+  stamp: 
+    secs: 1626277702
+    nsecs: 486669225
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.03
+  current_input: 0.8
+  current_q: 10.02
+  speed: 5122.0
+  duty_cycle: 0.092
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4860.0
+  distance_traveled: 27224.0
+  fault_code: 0
+---
+header: 
+  seq: 70860
+  stamp: 
+    secs: 1626277702
+    nsecs: 506488194
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.55
+  current_input: 0.93
+  current_q: 11.32
+  speed: 5107.0
+  duty_cycle: 0.094
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4870.0
+  distance_traveled: 27234.0
+  fault_code: 0
+---
+header: 
+  seq: 70861
+  stamp: 
+    secs: 1626277702
+    nsecs: 526811339
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.84
+  current_input: 0.88
+  current_q: 10.81
+  speed: 5102.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4881.0
+  distance_traveled: 27245.0
+  fault_code: 0
+---
+header: 
+  seq: 70862
+  stamp: 
+    secs: 1626277702
+    nsecs: 547046879
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.0
+  current_input: 0.7
+  current_q: 8.81
+  speed: 5111.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4891.0
+  distance_traveled: 27255.0
+  fault_code: 0
+---
+header: 
+  seq: 70863
+  stamp: 
+    secs: 1626277702
+    nsecs: 566383391
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.03
+  current_input: 0.7
+  current_q: 8.87
+  speed: 5122.0
+  duty_cycle: 0.089
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4901.0
+  distance_traveled: 27265.0
+  fault_code: 0
+---
+header: 
+  seq: 70864
+  stamp: 
+    secs: 1626277702
+    nsecs: 586682473
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.5
+  current_input: 0.66
+  current_q: 8.34
+  speed: 5128.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4911.0
+  distance_traveled: 27275.0
+  fault_code: 0
+---
+header: 
+  seq: 70865
+  stamp: 
+    secs: 1626277702
+    nsecs: 606406024
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.1
+  current_input: 0.62
+  current_q: 7.96
+  speed: 5139.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4921.0
+  distance_traveled: 27285.0
+  fault_code: 0
+---
+header: 
+  seq: 70866
+  stamp: 
+    secs: 1626277702
+    nsecs: 626601823
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.51
+  current_input: 0.66
+  current_q: 8.43
+  speed: 5145.0
+  duty_cycle: 0.089
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4932.0
+  distance_traveled: 27296.0
+  fault_code: 0
+---
+header: 
+  seq: 70867
+  stamp: 
+    secs: 1626277702
+    nsecs: 646349124
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.69
+  current_input: 0.76
+  current_q: 9.54
+  speed: 5134.0
+  duty_cycle: 0.094
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4942.0
+  distance_traveled: 27306.0
+  fault_code: 0
+---
+header: 
+  seq: 70868
+  stamp: 
+    secs: 1626277702
+    nsecs: 667264103
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.04
+  current_input: 0.8
+  current_q: 9.9
+  speed: 5126.0
+  duty_cycle: 0.096
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4952.0
+  distance_traveled: 27316.0
+  fault_code: 0
+---
+header: 
+  seq: 70869
+  stamp: 
+    secs: 1626277702
+    nsecs: 686765098
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.11
+  current_input: 0.81
+  current_q: 9.99
+  speed: 5123.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4963.0
+  distance_traveled: 27327.0
+  fault_code: 0
+---
+header: 
+  seq: 70870
+  stamp: 
+    secs: 1626277702
+    nsecs: 706501201
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 8.67
+  current_input: 0.67
+  current_q: 8.46
+  speed: 5135.0
+  duty_cycle: 0.089
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4973.0
+  distance_traveled: 27337.0
+  fault_code: 0
+---
+header: 
+  seq: 70871
+  stamp: 
+    secs: 1626277702
+    nsecs: 726425641
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.37
+  current_input: 0.65
+  current_q: 8.25
+  speed: 5137.0
+  duty_cycle: 0.093
+  charge_drawn: 116.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4983.0
+  distance_traveled: 27347.0
+  fault_code: 0
+---
+header: 
+  seq: 70872
+  stamp: 
+    secs: 1626277702
+    nsecs: 746045023
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.69
+  current_input: 0.86
+  current_q: 10.61
+  speed: 5115.0
+  duty_cycle: 0.096
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 4993.0
+  distance_traveled: 27357.0
+  fault_code: 0
+---
+header: 
+  seq: 70873
+  stamp: 
+    secs: 1626277702
+    nsecs: 765979879
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 12.82
+  current_input: 1.06
+  current_q: 12.76
+  speed: 5089.0
+  duty_cycle: 0.095
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5003.0
+  distance_traveled: 27367.0
+  fault_code: 0
+---
+header: 
+  seq: 70874
+  stamp: 
+    secs: 1626277702
+    nsecs: 786254274
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.48
+  current_input: 0.93
+  current_q: 11.31
+  speed: 5082.0
+  duty_cycle: 0.096
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5013.0
+  distance_traveled: 27377.0
+  fault_code: 0
+---
+header: 
+  seq: 70875
+  stamp: 
+    secs: 1626277702
+    nsecs: 806508459
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.7
+  current_input: 0.77
+  current_q: 9.65
+  speed: 5086.0
+  duty_cycle: 0.094
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5024.0
+  distance_traveled: 27388.0
+  fault_code: 0
+---
+header: 
+  seq: 70876
+  stamp: 
+    secs: 1626277702
+    nsecs: 826880199
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.58
+  current_input: 0.75
+  current_q: 9.43
+  speed: 5092.0
+  duty_cycle: 0.09
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5034.0
+  distance_traveled: 27398.0
+  fault_code: 0
+---
+header: 
+  seq: 70877
+  stamp: 
+    secs: 1626277702
+    nsecs: 846943652
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.77
+  current_input: 0.78
+  current_q: 9.71
+  speed: 5092.0
+  duty_cycle: 0.093
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5044.0
+  distance_traveled: 27408.0
+  fault_code: 0
+---
+header: 
+  seq: 70878
+  stamp: 
+    secs: 1626277702
+    nsecs: 866739704
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.98
+  current_input: 0.87
+  current_q: 10.72
+  speed: 5084.0
+  duty_cycle: 0.096
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5054.0
+  distance_traveled: 27418.0
+  fault_code: 0
+---
+header: 
+  seq: 70879
+  stamp: 
+    secs: 1626277702
+    nsecs: 886664248
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.97
+  current_input: 0.88
+  current_q: 10.81
+  speed: 5079.0
+  duty_cycle: 0.093
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5064.0
+  distance_traveled: 27428.0
+  fault_code: 0
+---
+header: 
+  seq: 70880
+  stamp: 
+    secs: 1626277702
+    nsecs: 905803882
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.03
+  current_input: 0.89
+  current_q: 10.96
+  speed: 5071.0
+  duty_cycle: 0.093
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5074.0
+  distance_traveled: 27438.0
+  fault_code: 0
+---
+header: 
+  seq: 70881
+  stamp: 
+    secs: 1626277702
+    nsecs: 926502190
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.16
+  current_input: 0.9
+  current_q: 11.03
+  speed: 5064.0
+  duty_cycle: 0.095
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5084.0
+  distance_traveled: 27448.0
+  fault_code: 0
+---
+header: 
+  seq: 70882
+  stamp: 
+    secs: 1626277702
+    nsecs: 945962298
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.92
+  current_input: 0.97
+  current_q: 11.79
+  speed: 5051.0
+  duty_cycle: 0.095
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5094.0
+  distance_traveled: 27458.0
+  fault_code: 0
+---
+header: 
+  seq: 70883
+  stamp: 
+    secs: 1626277702
+    nsecs: 966340497
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.26
+  current_input: 0.82
+  current_q: 10.13
+  speed: 5062.0
+  duty_cycle: 0.094
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5104.0
+  distance_traveled: 27468.0
+  fault_code: 0
+---
+header: 
+  seq: 70884
+  stamp: 
+    secs: 1626277702
+    nsecs: 985872794
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.79
+  current_input: 0.78
+  current_q: 9.78
+  speed: 5067.0
+  duty_cycle: 0.095
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5115.0
+  distance_traveled: 27479.0
+  fault_code: 0
+---
+header: 
+  seq: 70885
+  stamp: 
+    secs: 1626277703
+    nsecs:   6095052
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.32
+  current_input: 0.92
+  current_q: 11.31
+  speed: 5054.0
+  duty_cycle: 0.097
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5125.0
+  distance_traveled: 27489.0
+  fault_code: 0
+---
+header: 
+  seq: 70886
+  stamp: 
+    secs: 1626277703
+    nsecs:  26821278
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 13.13
+  current_input: 1.07
+  current_q: 12.88
+  speed: 5038.0
+  duty_cycle: 0.093
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5135.0
+  distance_traveled: 27499.0
+  fault_code: 0
+---
+header: 
+  seq: 70887
+  stamp: 
+    secs: 1626277703
+    nsecs:  46319095
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.96
+  current_input: 0.98
+  current_q: 11.89
+  speed: 5035.0
+  duty_cycle: 0.09
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5145.0
+  distance_traveled: 27509.0
+  fault_code: 0
+---
+header: 
+  seq: 70888
+  stamp: 
+    secs: 1626277703
+    nsecs:  66663022
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 9.08
+  current_input: 0.7
+  current_q: 8.83
+  speed: 5052.0
+  duty_cycle: 0.091
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5155.0
+  distance_traveled: 27519.0
+  fault_code: 0
+---
+header: 
+  seq: 70889
+  stamp: 
+    secs: 1626277703
+    nsecs:  86478918
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 8.16
+  current_input: 0.62
+  current_q: 7.94
+  speed: 5080.0
+  duty_cycle: 0.09
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5165.0
+  distance_traveled: 27529.0
+  fault_code: 0
+---
+header: 
+  seq: 70890
+  stamp: 
+    secs: 1626277703
+    nsecs: 106830762
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.28
+  current_input: 0.73
+  current_q: 9.26
+  speed: 5086.0
+  duty_cycle: 0.093
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5176.0
+  distance_traveled: 27540.0
+  fault_code: 0
+---
+header: 
+  seq: 70891
+  stamp: 
+    secs: 1626277703
+    nsecs: 126448009
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.58
+  current_input: 0.95
+  current_q: 11.59
+  speed: 5065.0
+  duty_cycle: 0.097
+  charge_drawn: 117.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5186.0
+  distance_traveled: 27550.0
+  fault_code: 0
+---
+header: 
+  seq: 70892
+  stamp: 
+    secs: 1626277703
+    nsecs: 146214321
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 11.45
+  current_input: 0.92
+  current_q: 11.29
+  speed: 5063.0
+  duty_cycle: 0.093
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5196.0
+  distance_traveled: 27560.0
+  fault_code: 0
+---
+header: 
+  seq: 70893
+  stamp: 
+    secs: 1626277703
+    nsecs: 167332377
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.43
+  current_input: 0.82
+  current_q: 10.14
+  speed: 5066.0
+  duty_cycle: 0.096
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5206.0
+  distance_traveled: 27570.0
+  fault_code: 0
+---
+header: 
+  seq: 70894
+  stamp: 
+    secs: 1626277703
+    nsecs: 187021292
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.57
+  current_input: 0.85
+  current_q: 10.5
+  speed: 5064.0
+  duty_cycle: 0.096
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5216.0
+  distance_traveled: 27580.0
+  fault_code: 0
+---
+header: 
+  seq: 70895
+  stamp: 
+    secs: 1626277703
+    nsecs: 206133060
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 10.9
+  current_input: 0.87
+  current_q: 10.79
+  speed: 5060.0
+  duty_cycle: 0.092
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5226.0
+  distance_traveled: 27590.0
+  fault_code: 0
+---
+header: 
+  seq: 70896
+  stamp: 
+    secs: 1626277703
+    nsecs: 226093334
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 10.08
+  current_input: 0.79
+  current_q: 9.82
+  speed: 5072.0
+  duty_cycle: 0.089
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5236.0
+  distance_traveled: 27600.0
+  fault_code: 0
+---
+header: 
+  seq: 70897
+  stamp: 
+    secs: 1626277703
+    nsecs: 246296581
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.19
+  current_input: 0.72
+  current_q: 9.13
+  speed: 5077.0
+  duty_cycle: 0.094
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5246.0
+  distance_traveled: 27610.0
+  fault_code: 0
+---
+header: 
+  seq: 70898
+  stamp: 
+    secs: 1626277703
+    nsecs: 267351824
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 11.33
+  current_input: 0.92
+  current_q: 11.3
+  speed: 5056.0
+  duty_cycle: 0.096
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5257.0
+  distance_traveled: 27621.0
+  fault_code: 0
+---
+header: 
+  seq: 70899
+  stamp: 
+    secs: 1626277703
+    nsecs: 285869779
+  frame_id: ''
+state: 
+  voltage_input: 11.7
+  temperature_pcb: 0.0
+  current_motor: 13.16
+  current_input: 1.08
+  current_q: 13.01
+  speed: 5040.0
+  duty_cycle: 0.098
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5266.0
+  distance_traveled: 27630.0
+  fault_code: 0
+---
+header: 
+  seq: 70900
+  stamp: 
+    secs: 1626277703
+    nsecs: 306386157
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 12.11
+  current_input: 0.98
+  current_q: 11.95
+  speed: 5035.0
+  duty_cycle: 0.096
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5276.0
+  distance_traveled: 27640.0
+  fault_code: 0
+---
+header: 
+  seq: 70901
+  stamp: 
+    secs: 1626277703
+    nsecs: 326222523
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 9.26
+  current_input: 0.73
+  current_q: 9.16
+  speed: 5053.0
+  duty_cycle: 0.092
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5287.0
+  distance_traveled: 27651.0
+  fault_code: 0
+---
+header: 
+  seq: 70902
+  stamp: 
+    secs: 1626277703
+    nsecs: 346084566
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 4.81
+  current_input: 0.14
+  current_q: -6.19
+  speed: 4345.0
+  duty_cycle: 0.0
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5291.0
+  distance_traveled: 27655.0
+  fault_code: 0
+---
+header: 
+  seq: 70903
+  stamp: 
+    secs: 1626277703
+    nsecs: 365778584
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 12.46
+  current_input: 0.02
+  current_q: -17.24
+  speed: 3263.0
+  duty_cycle: -0.006
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5292.0
+  distance_traveled: 27660.0
+  fault_code: 0
+---
+header: 
+  seq: 70904
+  stamp: 
+    secs: 1626277703
+    nsecs: 385713389
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 45.23
+  current_input: 0.28
+  current_q: -49.86
+  speed: 3377.0
+  duty_cycle: -0.009
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5299.0
+  distance_traveled: 27667.0
+  fault_code: 0
+---
+header: 
+  seq: 70905
+  stamp: 
+    secs: 1626277703
+    nsecs: 405711164
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.67
+  current_input: 0.47
+  current_q: -49.52
+  speed: 3367.0
+  duty_cycle: -0.016
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5306.0
+  distance_traveled: 27674.0
+  fault_code: 0
+---
+header: 
+  seq: 70906
+  stamp: 
+    secs: 1626277703
+    nsecs: 425789930
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 50.01
+  current_input: 0.53
+  current_q: -50.09
+  speed: 3341.0
+  duty_cycle: -0.014
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5312.0
+  distance_traveled: 27680.0
+  fault_code: 0
+---
+header: 
+  seq: 70907
+  stamp: 
+    secs: 1626277703
+    nsecs: 448255095
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.79
+  current_input: 0.73
+  current_q: -49.76
+  speed: 3240.0
+  duty_cycle: -0.019
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5318.0
+  distance_traveled: 27686.0
+  fault_code: 0
+---
+header: 
+  seq: 70908
+  stamp: 
+    secs: 1626277703
+    nsecs: 466567890
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.81
+  current_input: 0.93
+  current_q: -49.69
+  speed: 3089.0
+  duty_cycle: -0.025
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5324.0
+  distance_traveled: 27692.0
+  fault_code: 0
+---
+header: 
+  seq: 70909
+  stamp: 
+    secs: 1626277703
+    nsecs: 486427276
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.82
+  current_input: 1.13
+  current_q: -49.84
+  speed: 2902.0
+  duty_cycle: -0.03
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5328.0
+  distance_traveled: 27696.0
+  fault_code: 0
+---
+header: 
+  seq: 70910
+  stamp: 
+    secs: 1626277703
+    nsecs: 506252600
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.93
+  current_input: 1.38
+  current_q: -49.94
+  speed: 2672.0
+  duty_cycle: -0.034
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5332.0
+  distance_traveled: 27700.0
+  fault_code: 0
+---
+header: 
+  seq: 70911
+  stamp: 
+    secs: 1626277703
+    nsecs: 526171727
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.74
+  current_input: 1.62
+  current_q: -49.8
+  speed: 2409.0
+  duty_cycle: -0.04
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5336.0
+  distance_traveled: 27704.0
+  fault_code: 0
+---
+header: 
+  seq: 70912
+  stamp: 
+    secs: 1626277703
+    nsecs: 546338932
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 49.9
+  current_input: 1.87
+  current_q: -49.85
+  speed: 2117.0
+  duty_cycle: -0.046
+  charge_drawn: 118.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5338.0
+  distance_traveled: 27706.0
+  fault_code: 0
+---
+header: 
+  seq: 70913
+  stamp: 
+    secs: 1626277703
+    nsecs: 566275508
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 49.85
+  current_input: 2.09
+  current_q: -49.78
+  speed: 1824.0
+  duty_cycle: -0.054
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5340.0
+  distance_traveled: 27708.0
+  fault_code: 0
+---
+header: 
+  seq: 70914
+  stamp: 
+    secs: 1626277703
+    nsecs: 586375576
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 46.68
+  current_input: 2.01
+  current_q: -46.69
+  speed: 1524.0
+  duty_cycle: -0.048
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5342.0
+  distance_traveled: 27710.0
+  fault_code: 0
+---
+header: 
+  seq: 70915
+  stamp: 
+    secs: 1626277703
+    nsecs: 606274963
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 37.33
+  current_input: 1.54
+  current_q: -38.05
+  speed: 1240.0
+  duty_cycle: -0.015
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5343.0
+  distance_traveled: 27711.0
+  fault_code: 0
+---
+header: 
+  seq: 70916
+  stamp: 
+    secs: 1626277703
+    nsecs: 626527639
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 8.98
+  current_input: 0.0
+  current_q: -6.57
+  speed: 958.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5343.0
+  distance_traveled: 27711.0
+  fault_code: 0
+---
+header: 
+  seq: 70917
+  stamp: 
+    secs: 1626277703
+    nsecs: 645986236
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -1.2
+  current_input: 0.0
+  current_q: 1.05
+  speed: 572.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5342.0
+  distance_traveled: 27712.0
+  fault_code: 0
+---
+header: 
+  seq: 70918
+  stamp: 
+    secs: 1626277703
+    nsecs: 666232922
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.17
+  current_input: 0.0
+  current_q: 0.1
+  speed: 340.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5341.0
+  distance_traveled: 27713.0
+  fault_code: 0
+---
+header: 
+  seq: 70919
+  stamp: 
+    secs: 1626277703
+    nsecs: 685882253
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.2
+  speed: 171.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5341.0
+  distance_traveled: 27713.0
+  fault_code: 0
+---
+header: 
+  seq: 70920
+  stamp: 
+    secs: 1626277703
+    nsecs: 706193783
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.55
+  current_input: 0.0
+  current_q: -0.54
+  speed: 56.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5340.0
+  distance_traveled: 27714.0
+  fault_code: 0
+---
+header: 
+  seq: 70921
+  stamp: 
+    secs: 1626277703
+    nsecs: 726130203
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.03
+  current_input: 0.0
+  current_q: -0.07
+  speed: -35.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5339.0
+  distance_traveled: 27715.0
+  fault_code: 0
+---
+header: 
+  seq: 70922
+  stamp: 
+    secs: 1626277703
+    nsecs: 746474182
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.09
+  speed: -110.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5339.0
+  distance_traveled: 27715.0
+  fault_code: 0
+---
+header: 
+  seq: 70923
+  stamp: 
+    secs: 1626277703
+    nsecs: 766617480
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.18
+  speed: -156.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5338.0
+  distance_traveled: 27716.0
+  fault_code: 0
+---
+header: 
+  seq: 70924
+  stamp: 
+    secs: 1626277703
+    nsecs: 786186288
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.19
+  speed: -197.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5338.0
+  distance_traveled: 27716.0
+  fault_code: 0
+---
+header: 
+  seq: 70925
+  stamp: 
+    secs: 1626277703
+    nsecs: 806725271
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.13
+  speed: -226.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5337.0
+  distance_traveled: 27717.0
+  fault_code: 0
+---
+header: 
+  seq: 70926
+  stamp: 
+    secs: 1626277703
+    nsecs: 826024491
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.03
+  current_input: 0.0
+  current_q: 0.0
+  speed: -246.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5336.0
+  distance_traveled: 27718.0
+  fault_code: 0
+---
+header: 
+  seq: 70927
+  stamp: 
+    secs: 1626277703
+    nsecs: 846121121
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.11
+  speed: -271.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5336.0
+  distance_traveled: 27718.0
+  fault_code: 0
+---
+header: 
+  seq: 70928
+  stamp: 
+    secs: 1626277703
+    nsecs: 867319856
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.18
+  speed: -287.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5335.0
+  distance_traveled: 27719.0
+  fault_code: 0
+---
+header: 
+  seq: 70929
+  stamp: 
+    secs: 1626277703
+    nsecs: 886825382
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.16
+  speed: -293.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5334.0
+  distance_traveled: 27720.0
+  fault_code: 0
+---
+header: 
+  seq: 70930
+  stamp: 
+    secs: 1626277703
+    nsecs: 907492961
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.17
+  current_input: 0.0
+  current_q: 0.07
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5334.0
+  distance_traveled: 27720.0
+  fault_code: 0
+---
+header: 
+  seq: 70931
+  stamp: 
+    secs: 1626277703
+    nsecs: 926178732
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.14
+  current_input: 0.0
+  current_q: -0.04
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5333.0
+  distance_traveled: 27721.0
+  fault_code: 0
+---
+header: 
+  seq: 70932
+  stamp: 
+    secs: 1626277703
+    nsecs: 946490471
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.15
+  speed: -304.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5333.0
+  distance_traveled: 27721.0
+  fault_code: 0
+---
+header: 
+  seq: 70933
+  stamp: 
+    secs: 1626277703
+    nsecs: 966709968
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.2
+  speed: -304.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5332.0
+  distance_traveled: 27722.0
+  fault_code: 0
+---
+header: 
+  seq: 70934
+  stamp: 
+    secs: 1626277703
+    nsecs: 986371018
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.15
+  speed: -299.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5331.0
+  distance_traveled: 27723.0
+  fault_code: 0
+---
+header: 
+  seq: 70935
+  stamp: 
+    secs: 1626277704
+    nsecs:   6505826
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.16
+  current_input: 0.0
+  current_q: -0.06
+  speed: -307.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5331.0
+  distance_traveled: 27723.0
+  fault_code: 0
+---
+header: 
+  seq: 70936
+  stamp: 
+    secs: 1626277704
+    nsecs:  26760846
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.06
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5330.0
+  distance_traveled: 27724.0
+  fault_code: 0
+---
+header: 
+  seq: 70937
+  stamp: 
+    secs: 1626277704
+    nsecs:  47129148
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.16
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5329.0
+  distance_traveled: 27725.0
+  fault_code: 0
+---
+header: 
+  seq: 70938
+  stamp: 
+    secs: 1626277704
+    nsecs:  67039265
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.19
+  speed: -323.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5329.0
+  distance_traveled: 27725.0
+  fault_code: 0
+---
+header: 
+  seq: 70939
+  stamp: 
+    secs: 1626277704
+    nsecs:  87188553
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.21
+  current_input: 0.0
+  current_q: 0.14
+  speed: -323.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5328.0
+  distance_traveled: 27726.0
+  fault_code: 0
+---
+header: 
+  seq: 70940
+  stamp: 
+    secs: 1626277704
+    nsecs: 106261206
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.07
+  current_input: 0.0
+  current_q: 0.02
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5327.0
+  distance_traveled: 27727.0
+  fault_code: 0
+---
+header: 
+  seq: 70941
+  stamp: 
+    secs: 1626277704
+    nsecs: 125928193
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.1
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5327.0
+  distance_traveled: 27727.0
+  fault_code: 0
+---
+header: 
+  seq: 70942
+  stamp: 
+    secs: 1626277704
+    nsecs: 146699264
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.18
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5326.0
+  distance_traveled: 27728.0
+  fault_code: 0
+---
+header: 
+  seq: 70943
+  stamp: 
+    secs: 1626277704
+    nsecs: 166128018
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.17
+  current_input: 0.0
+  current_q: -0.16
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5326.0
+  distance_traveled: 27728.0
+  fault_code: 0
+---
+header: 
+  seq: 70944
+  stamp: 
+    secs: 1626277704
+    nsecs: 186341578
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.12
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5325.0
+  distance_traveled: 27729.0
+  fault_code: 0
+---
+header: 
+  seq: 70945
+  stamp: 
+    secs: 1626277704
+    nsecs: 206133359
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.0
+  current_input: 0.0
+  current_q: 0.0
+  speed: -309.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5324.0
+  distance_traveled: 27730.0
+  fault_code: 0
+---
+header: 
+  seq: 70946
+  stamp: 
+    secs: 1626277704
+    nsecs: 226083216
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.11
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5324.0
+  distance_traveled: 27730.0
+  fault_code: 0
+---
+header: 
+  seq: 70947
+  stamp: 
+    secs: 1626277704
+    nsecs: 245743120
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.18
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5323.0
+  distance_traveled: 27731.0
+  fault_code: 0
+---
+header: 
+  seq: 70948
+  stamp: 
+    secs: 1626277704
+    nsecs: 266759508
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.17
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5322.0
+  distance_traveled: 27732.0
+  fault_code: 0
+---
+header: 
+  seq: 70949
+  stamp: 
+    secs: 1626277704
+    nsecs: 286187845
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.08
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5322.0
+  distance_traveled: 27732.0
+  fault_code: 0
+---
+header: 
+  seq: 70950
+  stamp: 
+    secs: 1626277704
+    nsecs: 305985616
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.09
+  current_input: 0.0
+  current_q: -0.03
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5321.0
+  distance_traveled: 27733.0
+  fault_code: 0
+---
+header: 
+  seq: 70951
+  stamp: 
+    secs: 1626277704
+    nsecs: 326196936
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.14
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5320.0
+  distance_traveled: 27734.0
+  fault_code: 0
+---
+header: 
+  seq: 70952
+  stamp: 
+    secs: 1626277704
+    nsecs: 346012832
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.18
+  speed: -312.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5320.0
+  distance_traveled: 27734.0
+  fault_code: 0
+---
+header: 
+  seq: 70953
+  stamp: 
+    secs: 1626277704
+    nsecs: 366037066
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.17
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5319.0
+  distance_traveled: 27735.0
+  fault_code: 0
+---
+header: 
+  seq: 70954
+  stamp: 
+    secs: 1626277704
+    nsecs: 386832929
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.07
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5319.0
+  distance_traveled: 27735.0
+  fault_code: 0
+---
+header: 
+  seq: 70955
+  stamp: 
+    secs: 1626277704
+    nsecs: 406167983
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.15
+  current_input: 0.0
+  current_q: 0.05
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5318.0
+  distance_traveled: 27736.0
+  fault_code: 0
+---
+header: 
+  seq: 70956
+  stamp: 
+    secs: 1626277704
+    nsecs: 426493316
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.16
+  speed: -316.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5317.0
+  distance_traveled: 27737.0
+  fault_code: 0
+---
+header: 
+  seq: 70957
+  stamp: 
+    secs: 1626277704
+    nsecs: 446376192
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.19
+  speed: -325.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5317.0
+  distance_traveled: 27737.0
+  fault_code: 0
+---
+header: 
+  seq: 70958
+  stamp: 
+    secs: 1626277704
+    nsecs: 466954447
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.22
+  current_input: 0.0
+  current_q: 0.15
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5316.0
+  distance_traveled: 27738.0
+  fault_code: 0
+---
+header: 
+  seq: 70959
+  stamp: 
+    secs: 1626277704
+    nsecs: 486494817
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.04
+  current_input: 0.0
+  current_q: 0.01
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5315.0
+  distance_traveled: 27739.0
+  fault_code: 0
+---
+header: 
+  seq: 70960
+  stamp: 
+    secs: 1626277704
+    nsecs: 506331547
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.1
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5315.0
+  distance_traveled: 27739.0
+  fault_code: 0
+---
+header: 
+  seq: 70961
+  stamp: 
+    secs: 1626277704
+    nsecs: 526339583
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.18
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5314.0
+  distance_traveled: 27740.0
+  fault_code: 0
+---
+header: 
+  seq: 70962
+  stamp: 
+    secs: 1626277704
+    nsecs: 546721219
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.19
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5314.0
+  distance_traveled: 27740.0
+  fault_code: 0
+---
+header: 
+  seq: 70963
+  stamp: 
+    secs: 1626277704
+    nsecs: 566662117
+  frame_id: ''
+state: 
+  voltage_input: 11.7
+  temperature_pcb: 0.0
+  current_motor: 0.22
+  current_input: 0.0
+  current_q: -0.14
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5313.0
+  distance_traveled: 27741.0
+  fault_code: 0
+---
+header: 
+  seq: 70964
+  stamp: 
+    secs: 1626277704
+    nsecs: 586525567
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.01
+  current_input: 0.0
+  current_q: 0.0
+  speed: -309.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5312.0
+  distance_traveled: 27742.0
+  fault_code: 0
+---
+header: 
+  seq: 70965
+  stamp: 
+    secs: 1626277704
+    nsecs: 606134219
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.12
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5312.0
+  distance_traveled: 27742.0
+  fault_code: 0
+---
+header: 
+  seq: 70966
+  stamp: 
+    secs: 1626277704
+    nsecs: 627723535
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.18
+  speed: -321.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5311.0
+  distance_traveled: 27743.0
+  fault_code: 0
+---
+header: 
+  seq: 70967
+  stamp: 
+    secs: 1626277704
+    nsecs: 646616862
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.18
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5310.0
+  distance_traveled: 27744.0
+  fault_code: 0
+---
+header: 
+  seq: 70968
+  stamp: 
+    secs: 1626277704
+    nsecs: 666446144
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.07
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5310.0
+  distance_traveled: 27744.0
+  fault_code: 0
+---
+header: 
+  seq: 70969
+  stamp: 
+    secs: 1626277704
+    nsecs: 688361715
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.13
+  current_input: 0.0
+  current_q: -0.05
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5309.0
+  distance_traveled: 27745.0
+  fault_code: 0
+---
+header: 
+  seq: 70970
+  stamp: 
+    secs: 1626277704
+    nsecs: 706251377
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.14
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5308.0
+  distance_traveled: 27746.0
+  fault_code: 0
+---
+header: 
+  seq: 70971
+  stamp: 
+    secs: 1626277704
+    nsecs: 726520198
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.19
+  speed: -312.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5308.0
+  distance_traveled: 27746.0
+  fault_code: 0
+---
+header: 
+  seq: 70972
+  stamp: 
+    secs: 1626277704
+    nsecs: 746539432
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.18
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5307.0
+  distance_traveled: 27747.0
+  fault_code: 0
+---
+header: 
+  seq: 70973
+  stamp: 
+    secs: 1626277704
+    nsecs: 766916016
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.05
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5307.0
+  distance_traveled: 27747.0
+  fault_code: 0
+---
+header: 
+  seq: 70974
+  stamp: 
+    secs: 1626277704
+    nsecs: 786505606
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.15
+  current_input: 0.0
+  current_q: 0.05
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5306.0
+  distance_traveled: 27748.0
+  fault_code: 0
+---
+header: 
+  seq: 70975
+  stamp: 
+    secs: 1626277704
+    nsecs: 806520100
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.16
+  speed: -316.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5305.0
+  distance_traveled: 27749.0
+  fault_code: 0
+---
+header: 
+  seq: 70976
+  stamp: 
+    secs: 1626277704
+    nsecs: 825994427
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.18
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5305.0
+  distance_traveled: 27749.0
+  fault_code: 0
+---
+header: 
+  seq: 70977
+  stamp: 
+    secs: 1626277704
+    nsecs: 845854855
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.12
+  speed: -323.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5304.0
+  distance_traveled: 27750.0
+  fault_code: 0
+---
+header: 
+  seq: 70978
+  stamp: 
+    secs: 1626277704
+    nsecs: 866263628
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.02
+  current_input: 0.0
+  current_q: 0.01
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5303.0
+  distance_traveled: 27751.0
+  fault_code: 0
+---
+header: 
+  seq: 70979
+  stamp: 
+    secs: 1626277704
+    nsecs: 885923011
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.09
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5303.0
+  distance_traveled: 27751.0
+  fault_code: 0
+---
+header: 
+  seq: 70980
+  stamp: 
+    secs: 1626277704
+    nsecs: 906206728
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.17
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5302.0
+  distance_traveled: 27752.0
+  fault_code: 0
+---
+header: 
+  seq: 70981
+  stamp: 
+    secs: 1626277704
+    nsecs: 926206222
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.2
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5302.0
+  distance_traveled: 27752.0
+  fault_code: 0
+---
+header: 
+  seq: 70982
+  stamp: 
+    secs: 1626277704
+    nsecs: 946142849
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.13
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5301.0
+  distance_traveled: 27753.0
+  fault_code: 0
+---
+header: 
+  seq: 70983
+  stamp: 
+    secs: 1626277704
+    nsecs: 965924214
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.02
+  current_input: 0.0
+  current_q: 0.0
+  speed: -308.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5300.0
+  distance_traveled: 27754.0
+  fault_code: 0
+---
+header: 
+  seq: 70984
+  stamp: 
+    secs: 1626277704
+    nsecs: 986743671
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.11
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5300.0
+  distance_traveled: 27754.0
+  fault_code: 0
+---
+header: 
+  seq: 70985
+  stamp: 
+    secs: 1626277705
+    nsecs:   6539723
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.17
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5299.0
+  distance_traveled: 27755.0
+  fault_code: 0
+---
+header: 
+  seq: 70986
+  stamp: 
+    secs: 1626277705
+    nsecs:  26195929
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.15
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5298.0
+  distance_traveled: 27756.0
+  fault_code: 0
+---
+header: 
+  seq: 70987
+  stamp: 
+    secs: 1626277705
+    nsecs:  46256465
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.08
+  speed: -323.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5298.0
+  distance_traveled: 27756.0
+  fault_code: 0
+---
+header: 
+  seq: 70988
+  stamp: 
+    secs: 1626277705
+    nsecs:  65936161
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.11
+  current_input: 0.0
+  current_q: -0.04
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5297.0
+  distance_traveled: 27757.0
+  fault_code: 0
+---
+header: 
+  seq: 70989
+  stamp: 
+    secs: 1626277705
+    nsecs:  85821694
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.14
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5296.0
+  distance_traveled: 27758.0
+  fault_code: 0
+---
+header: 
+  seq: 70990
+  stamp: 
+    secs: 1626277705
+    nsecs: 106155934
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.2
+  speed: -312.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5296.0
+  distance_traveled: 27758.0
+  fault_code: 0
+---
+header: 
+  seq: 70991
+  stamp: 
+    secs: 1626277705
+    nsecs: 126241992
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.16
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5295.0
+  distance_traveled: 27759.0
+  fault_code: 0
+---
+header: 
+  seq: 70992
+  stamp: 
+    secs: 1626277705
+    nsecs: 145831634
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.06
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5295.0
+  distance_traveled: 27759.0
+  fault_code: 0
+---
+header: 
+  seq: 70993
+  stamp: 
+    secs: 1626277705
+    nsecs: 166329887
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.16
+  current_input: 0.0
+  current_q: 0.05
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5294.0
+  distance_traveled: 27760.0
+  fault_code: 0
+---
+header: 
+  seq: 70994
+  stamp: 
+    secs: 1626277705
+    nsecs: 186370631
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.16
+  speed: -316.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5293.0
+  distance_traveled: 27761.0
+  fault_code: 0
+---
+header: 
+  seq: 70995
+  stamp: 
+    secs: 1626277705
+    nsecs: 206339291
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.22
+  current_input: 0.0
+  current_q: 0.22
+  speed: -325.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5293.0
+  distance_traveled: 27761.0
+  fault_code: 0
+---
+header: 
+  seq: 70996
+  stamp: 
+    secs: 1626277705
+    nsecs: 226309774
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.12
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5292.0
+  distance_traveled: 27762.0
+  fault_code: 0
+---
+header: 
+  seq: 70997
+  stamp: 
+    secs: 1626277705
+    nsecs: 246025408
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.02
+  current_input: 0.0
+  current_q: 0.01
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5291.0
+  distance_traveled: 27763.0
+  fault_code: 0
+---
+header: 
+  seq: 70998
+  stamp: 
+    secs: 1626277705
+    nsecs: 266502723
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.1
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5291.0
+  distance_traveled: 27763.0
+  fault_code: 0
+---
+header: 
+  seq: 70999
+  stamp: 
+    secs: 1626277705
+    nsecs: 286334922
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.17
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5290.0
+  distance_traveled: 27764.0
+  fault_code: 0
+---
+header: 
+  seq: 71000
+  stamp: 
+    secs: 1626277705
+    nsecs: 306306238
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.19
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5290.0
+  distance_traveled: 27764.0
+  fault_code: 0
+---
+header: 
+  seq: 71001
+  stamp: 
+    secs: 1626277705
+    nsecs: 325752387
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.11
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5289.0
+  distance_traveled: 27765.0
+  fault_code: 0
+---
+header: 
+  seq: 71002
+  stamp: 
+    secs: 1626277705
+    nsecs: 345974385
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.03
+  current_input: 0.0
+  current_q: -0.01
+  speed: -309.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5288.0
+  distance_traveled: 27766.0
+  fault_code: 0
+---
+header: 
+  seq: 71003
+  stamp: 
+    secs: 1626277705
+    nsecs: 366029088
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.12
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5288.0
+  distance_traveled: 27766.0
+  fault_code: 0
+---
+header: 
+  seq: 71004
+  stamp: 
+    secs: 1626277705
+    nsecs: 385992227
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.18
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5287.0
+  distance_traveled: 27767.0
+  fault_code: 0
+---
+header: 
+  seq: 71005
+  stamp: 
+    secs: 1626277705
+    nsecs: 406737985
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.16
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5286.0
+  distance_traveled: 27768.0
+  fault_code: 0
+---
+header: 
+  seq: 71006
+  stamp: 
+    secs: 1626277705
+    nsecs: 425989079
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.17
+  current_input: 0.0
+  current_q: 0.06
+  speed: -323.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5286.0
+  distance_traveled: 27768.0
+  fault_code: 0
+---
+header: 
+  seq: 71007
+  stamp: 
+    secs: 1626277705
+    nsecs: 446390090
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.14
+  current_input: 0.0
+  current_q: -0.04
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5285.0
+  distance_traveled: 27769.0
+  fault_code: 0
+---
+header: 
+  seq: 71008
+  stamp: 
+    secs: 1626277705
+    nsecs: 466632245
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.15
+  speed: -313.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5284.0
+  distance_traveled: 27770.0
+  fault_code: 0
+---
+header: 
+  seq: 71009
+  stamp: 
+    secs: 1626277705
+    nsecs: 486833513
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.19
+  speed: -312.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5284.0
+  distance_traveled: 27770.0
+  fault_code: 0
+---
+header: 
+  seq: 71010
+  stamp: 
+    secs: 1626277705
+    nsecs: 506739620
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.16
+  speed: -305.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5283.0
+  distance_traveled: 27771.0
+  fault_code: 0
+---
+header: 
+  seq: 71011
+  stamp: 
+    secs: 1626277705
+    nsecs: 526203791
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.05
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5283.0
+  distance_traveled: 27771.0
+  fault_code: 0
+---
+header: 
+  seq: 71012
+  stamp: 
+    secs: 1626277705
+    nsecs: 546333391
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.06
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5282.0
+  distance_traveled: 27772.0
+  fault_code: 0
+---
+header: 
+  seq: 71013
+  stamp: 
+    secs: 1626277705
+    nsecs: 566417105
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.16
+  speed: -316.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5281.0
+  distance_traveled: 27773.0
+  fault_code: 0
+---
+header: 
+  seq: 71014
+  stamp: 
+    secs: 1626277705
+    nsecs: 586675197
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.19
+  speed: -325.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5281.0
+  distance_traveled: 27773.0
+  fault_code: 0
+---
+header: 
+  seq: 71015
+  stamp: 
+    secs: 1626277705
+    nsecs: 606001345
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.13
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5280.0
+  distance_traveled: 27774.0
+  fault_code: 0
+---
+header: 
+  seq: 71016
+  stamp: 
+    secs: 1626277705
+    nsecs: 626671163
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.06
+  current_input: 0.0
+  current_q: 0.01
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5279.0
+  distance_traveled: 27775.0
+  fault_code: 0
+---
+header: 
+  seq: 71017
+  stamp: 
+    secs: 1626277705
+    nsecs: 646590603
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.11
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5279.0
+  distance_traveled: 27775.0
+  fault_code: 0
+---
+header: 
+  seq: 71018
+  stamp: 
+    secs: 1626277705
+    nsecs: 666086442
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.18
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5278.0
+  distance_traveled: 27776.0
+  fault_code: 0
+---
+header: 
+  seq: 71019
+  stamp: 
+    secs: 1626277705
+    nsecs: 686127394
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.18
+  current_input: 0.0
+  current_q: -0.17
+  speed: -311.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5278.0
+  distance_traveled: 27776.0
+  fault_code: 0
+---
+header: 
+  seq: 71020
+  stamp: 
+    secs: 1626277705
+    nsecs: 706338350
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.11
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5277.0
+  distance_traveled: 27777.0
+  fault_code: 0
+---
+header: 
+  seq: 71021
+  stamp: 
+    secs: 1626277705
+    nsecs: 726367532
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.04
+  current_input: 0.0
+  current_q: 0.0
+  speed: -309.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5276.0
+  distance_traveled: 27778.0
+  fault_code: 0
+---
+header: 
+  seq: 71022
+  stamp: 
+    secs: 1626277705
+    nsecs: 746018946
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.12
+  speed: -317.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5276.0
+  distance_traveled: 27778.0
+  fault_code: 0
+---
+header: 
+  seq: 71023
+  stamp: 
+    secs: 1626277705
+    nsecs: 766068493
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.2
+  speed: -321.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5275.0
+  distance_traveled: 27779.0
+  fault_code: 0
+---
+header: 
+  seq: 71024
+  stamp: 
+    secs: 1626277705
+    nsecs: 786603674
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.15
+  speed: -319.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5274.0
+  distance_traveled: 27780.0
+  fault_code: 0
+---
+header: 
+  seq: 71025
+  stamp: 
+    secs: 1626277705
+    nsecs: 806539156
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.08
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5274.0
+  distance_traveled: 27780.0
+  fault_code: 0
+---
+header: 
+  seq: 71026
+  stamp: 
+    secs: 1626277705
+    nsecs: 826680371
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.13
+  current_input: 0.0
+  current_q: -0.05
+  speed: -320.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5273.0
+  distance_traveled: 27781.0
+  fault_code: 0
+---
+header: 
+  seq: 71027
+  stamp: 
+    secs: 1626277705
+    nsecs: 846089332
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.2
+  current_input: 0.0
+  current_q: -0.16
+  speed: -313.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5272.0
+  distance_traveled: 27782.0
+  fault_code: 0
+---
+header: 
+  seq: 71028
+  stamp: 
+    secs: 1626277705
+    nsecs: 866858528
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.2
+  speed: -312.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5272.0
+  distance_traveled: 27782.0
+  fault_code: 0
+---
+header: 
+  seq: 71029
+  stamp: 
+    secs: 1626277705
+    nsecs: 886699217
+  frame_id: ''
+state: 
+  voltage_input: 11.7
+  temperature_pcb: 0.0
+  current_motor: 0.21
+  current_input: 0.0
+  current_q: -0.17
+  speed: -304.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5271.0
+  distance_traveled: 27783.0
+  fault_code: 0
+---
+header: 
+  seq: 71030
+  stamp: 
+    secs: 1626277705
+    nsecs: 906073334
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.16
+  current_input: 0.0
+  current_q: -0.06
+  speed: -310.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5271.0
+  distance_traveled: 27783.0
+  fault_code: 0
+---
+header: 
+  seq: 71031
+  stamp: 
+    secs: 1626277705
+    nsecs: 925948658
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.18
+  current_input: 0.0
+  current_q: 0.06
+  speed: -314.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5270.0
+  distance_traveled: 27784.0
+  fault_code: 0
+---
+header: 
+  seq: 71032
+  stamp: 
+    secs: 1626277705
+    nsecs: 945965131
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.17
+  speed: -316.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5269.0
+  distance_traveled: 27785.0
+  fault_code: 0
+---
+header: 
+  seq: 71033
+  stamp: 
+    secs: 1626277705
+    nsecs: 969054579
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: -0.2
+  current_input: 0.0
+  current_q: 0.19
+  speed: -325.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5269.0
+  distance_traveled: 27785.0
+  fault_code: 0
+---
+header: 
+  seq: 71034
+  stamp: 
+    secs: 1626277705
+    nsecs: 985891201
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: -0.19
+  current_input: 0.0
+  current_q: 0.12
+  speed: -324.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5268.0
+  distance_traveled: 27786.0
+  fault_code: 0
+---
+header: 
+  seq: 71035
+  stamp: 
+    secs: 1626277706
+    nsecs:   6417267
+  frame_id: ''
+state: 
+  voltage_input: 11.5
+  temperature_pcb: 0.0
+  current_motor: 0.01
+  current_input: 0.0
+  current_q: 0.0
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5267.0
+  distance_traveled: 27787.0
+  fault_code: 0
+---
+header: 
+  seq: 71036
+  stamp: 
+    secs: 1626277706
+    nsecs:  25396429
+  frame_id: ''
+state: 
+  voltage_input: 11.6
+  temperature_pcb: 0.0
+  current_motor: 0.19
+  current_input: 0.0
+  current_q: -0.1
+  speed: -318.0
+  duty_cycle: 0.0
+  charge_drawn: 119.0
+  charge_regen: 0.0
+  energy_drawn: 0.0
+  energy_regen: 0.0
+  displacement: 5267.0
+  distance_traveled: 27787.0
+  fault_code: 0
+---
