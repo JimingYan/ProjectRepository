@@ -6,30 +6,28 @@ from sensor_msgs.msg import LaserScan
 from std_msgs.msg import Float64
 from vesc_msgs.msg import VescStateStamped 
 
-global rad
-rad = 0.3
+global thresh
+global turn_div
+global bub
+thresh = 2.75  #edit this number for the threshold distance
+turn_div = 120.0  #edit this number for the servo command divisor (larger number means milder turns)
+bub = 26  #edit this number for the forbidden bubble (larger number will mandate a larger gap)
 
 def bubble(data):
-    global Min
     global counter
-    global cone
     global direc
     global prev
-    global bub
-    if(counter == 0):
+    if(counter == 0): #find out what the minimum distance is located
         data = list(data.ranges)
         cone = data[-45:]+data[0:45]
         mincone = min(cone)
         Min=(cone.index(mincone))
-#        angle = math.atan(rad/(2*mincone))
-        bub =24
     if(counter == 0):
         count = 0
-        direc = float("inf")
-        right = cone[0:Min-bub]
-        left = cone[Min+bub+1:]
-        thresh = 1.55
-        for i in range(len(right)):
+        direc = float("inf")  #divide data into two chunks
+        right = cone[0:Min]
+        left = cone[Min+1:]
+        for i in range(len(right)): #find gap using for loop
             tar =  right[i]
             if(tar>thresh):
                  count+=1
@@ -40,25 +38,23 @@ def bubble(data):
                  count = 0
         count = 0
         for i in range(len(left)):
-            if(left[i]>thresh):
+            tar = left[i]
+            if(tar>thresh):
                  count+=1
-            if(left[i]<=thresh):
+            if(tar<=thresh):
                  count =0
             if(count == bub):
-                 direc = i-bub/2+Min+bub+1
+                 direc = i-bub/2+Min+1
                  count = 0
-        if(direc != float("inf")):
+        if(direc != float("inf")):  #if no gap is found, use the previous servo command
             prev = direc
-            pub.publish(direc/90.0)
-            print direc, type(direc)
-        pub2.publish(0.07)
+            pub.publish((direc-45)/turn_div+0.5)  #new servo command, proportional to the angle of the gap center
+        pub2.publish(0.09)  #constant duty cycle
     counter =0
 
 
 def servodetect():
     global counter
-    global angle
-    global Min
     global pub
     global pub2
     counter = 0

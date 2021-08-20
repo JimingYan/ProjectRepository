@@ -11,7 +11,7 @@ global pub
 def callback(data):
     global a
     global pub
-    a = data.axes[5]*0.1
+    a = data.axes[5]*0.08
     rospy.loginfo(a)
     pub.publish(a)
     
