@@ -19,10 +19,9 @@ def callback(data):
 def servoControl():
     global a
     global pub
-    a=0
     rospy.init_node("Grid", anonymous=True)
     pub = rospy.Publisher('/commands/servo/position', Float64, queue_size=10)
-    rospy.Subscriber("/joy_orig", Joy, callback)
+    rospy.Subscriber("/joy", Joy, callback)
     rospy.spin()  
 
 if __name__ == '__main__':
