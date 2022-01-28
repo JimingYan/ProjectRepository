@@ -9,7 +9,6 @@ global a
 global pub
 
 def callback(data):
-    global a
     global pub
     a = data.axes[0]*0.5+0.5
     rospy.loginfo(a)
@@ -17,7 +16,6 @@ def callback(data):
     
      
 def servoControl():
-    global a
     global pub
     rospy.init_node("Grid", anonymous=True)
     pub = rospy.Publisher('/commands/servo/position', Float64, queue_size=10)
