@@ -22,7 +22,7 @@ def callback(data):
         verd="far"
         pub1.publish(5000)      
         pub3.publish(0.48)
-    if(Min<0.5):         ## if obstacle is detected, start brakes 
+    if(Min<0.5):         ## if obstacle is detected, start brakes and print "near" on screen
         verd="near"
         brake()
     print verd
