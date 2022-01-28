@@ -8,20 +8,18 @@ from std_msgs.msg import Float64
 global a
 global pub
 
-def callback(data):
-    global a
+def callback(data):           ## callback triggered whenever a message from a subscribed topic is received
     global pub
-    a = data.axes[5]*0.1
-    rospy.loginfo(a)
-    pub.publish(a)
+    a = data.axes[5]*0.1      ## mapped data to send to the VESC
+    rospy.loginfo(a)          ## print this data in terminal
+    pub.publish(a)            ## publish this data
     
      
 def JoyControl():
-    global a
     global pub
-    rospy.init_node("JoyControl", anonymous=True)
-    rospy.Subscriber("/joy", Joy, callback)
-    pub = rospy.Publisher('/commands/motor/duty_cycle', Float64, queue_size=10)
+    rospy.init_node("JoyControl", anonymous=True)    ## initilize node
+    rospy.Subscriber("/joy", Joy, callback)          ## create subscriber, listen to /joy topic 
+    pub = rospy.Publisher('/commands/motor/duty_cycle', Float64, queue_size=10)   ## create publisher, publishes to teh VESC
     rospy.spin()  
 
 if __name__ == '__main__':
